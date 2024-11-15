@@ -1,0 +1,1761 @@
+{{disambiguation|Returning to Vana'diel{{!}}The guide about how the game has changed instead}}
+{|
+| colspan="2" style="padding-left: 200px;"| {{guide}}
+|-
+| style="vertical-align: middle; width: 200px;"|
+__ToC__
+|<div style="margin: auto; max-width: 1200px;" class="img-scaler">[[File:Quick Start Header.png|link=]]</div>
+Another crappy guide by [[User:Spicyryan|Spicyryan]] of Asura, formerly Pandemonium.
+|}
+
+
+Perhaps you already read the '''[[Returning to Vana'diel]]''' guide and perhaps even the official [http://www.playonline.com/ff11us/contguide/ '''Aventuring Primer'''], but still don't know what in the wild world of sports you are doing. So how about a guide that gets right to the heart of advice players are looking for?
+
+This guide will skip a lot of the fluff (less jokes, ''o~h no~'').<br />So no, it won't tell you what to do with your [[File:Adventurer Cpn. icon.png|link=]] [[Adventurer Coupon]], throw it on the ground (seriously).
+
+A lot of this will also be linking to solid resources that exist. For example, "Here is the [[Gold World Pass]] page", rather than explain everything about it to you. This guide will rehash things that subjectively need to be, and point you in the direction to answers otherwise.
+
+==Forum Discussion==
+[https://www.bluegartr.com/threads/130680-Quickstart-1-119-Guide-Discussion '''Here'''] is the BG Forums thread for any questions or comments you may have, come and post.
+
+==Reddit Discussion==
+Feel free to join us at [https://www.reddit.com/r/finalfantasy11/ '''r/FinalFantasy11''']!<br />
+:[[Image:Shadow Lord Reddit.png|250px|link=https://www.reddit.com/r/finalfantasy11/]]
+
+==Before You Start==
+===FAQ===
+{| style="text-align: left; width: 100%; max-width: 1800px;"
+|- style="background: #e5e5e5;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: [[Toon]]? [[Guild]]?
+:<span style="color:#008000">'''A'''</span>: We don't use those mentally defective terms here. It is a Character and a Linkshell.
+|- style="background: #F3F3F3;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: Is there a guide for installing this game and setting up a controller, Content ID, Trail Account, or speeding up the initial update?!
+:<span style="color:#008000">'''A'''</span>: Yes, see the '''[[Install Guide]]'''.
+|- style="background: #e5e5e5;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: Which server should I join?
+:<span style="color:#008000">'''A'''</span>: Bahamut or Odin are nice enough. Otherwise choose any server that is '''''not''''' Asura.
+
+:That being said, servers are mostly what you make of them.<br />So yes, Asura has the largest population, and therefore the best economy as well as ample opportunities. Yes, I also play on Asura, but I no longer enjoy that fact.
+
+:When I first wrote this guide years ago, and as I have updated it, Asuras population and problems have multiplied. Frankly, I don't recommend anyone comes here anymore like I once did. At times it feels like the spirit of the game has all but died on Asura.<br />RMT and bots run amok, and players new and old feel encouraged to support their enterprises. RMT, bots, and mercenaries have worked themselves into the very fabric of the server. New players regularly feel alienated for the sake of making gil off of them to level, gain capacity points, gear, weapons, etc. All with the hopes of being good enough for the shouts asking for absolutely the best of the best geared players for what is essentially old content, to accept them. All while the content being shouted for isn't nearly difficult enough to necessitate such exclusivity.<br />I could write a lot more overall, but '''do not come to Asura''', it has absolutely lost its recommendation status. No player should need to join such a server where if they aren't ready to stand up to the force of its own current then they will be swept downstream by it.
+
+:Keep in mind none of this even has anything to do with any notion of the overcrowding which people suggest. That part isn't too big of a deal to me at all.
+
+:Meanwhile, on Shiva, Phoenix, Odin, Bahamut, and other servers there are small bands of roving players that you would rather be a part of instead of the ramshackle brothel that is Asura.
+::Keep in mind that with a higher population comes more riffraff. This is not an anomaly, but just the nature of people in numbers.
+:::There will always be good and bad experiences, it takes time to grow as a player and person.
+::Keep in mind that social issues do occur in any setting, and its never a bad idea to take stock of the situation, yourself, and others. If you keep finding yourself experiencing strife in each group you join then it is likely your doing, and no server will alleviate that.
+:::Any server can suffer the fate of Asura. Players must keep an active role in shaping their community.
+::::Otherwise, any server can become like Asura. Where entire zones are shut down from CP parties due to RMT/merc bots, the profitability of crafts and items are driven into the ground from [[Escutcheons]] (crafting shield) bots, trolling in yells is the best game in town, you feel the need to pay people to join any content or get items, and ignorant players try to exclude anyone without the "best in slot" gear. Where there is such a pool of decked out, but somehow entirely oblivious individuals that couldnt gear themselves out of a paper bag without a guide to tell them what to get. Where players play within an environment which they feel either too afraid or too proud to admit to their own shortcomings. Frankly, Asura can end for all I care, and that is being kind about the matter.
+|- style="background: #F3F3F3;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: I want to play on a small server or I ''personally feel'' Asura is too crowded, which should I join?
+:<span style="color:#008000">'''A'''</span>: Just pick one at random then. For example, Carbuncle is rumored to be as dead as dreams.
+::Otherwise Bahamut and Odin are the about 1/3rd to 1/4th what Asura is while still being about double that of the other servers
+:::There is a choice between seeming excess and a clear dearth, don't choose idealistically.
+|- style="background: #e5e5e5;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: I just want to play solo for the story can I?
+:<span style="color:#008000">'''A'''</span>: Hey, the first real question. Yes, you certainly can do either of those things. I will make certain suggestions about completing the story throughout this.
+|- style="background: #F3F3F3;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: Can I get anything done without spending much time on the game?
+:<span style="color:#008000">'''A'''</span>: Yes, the game is more casual than it has ever been, and a lot of grind was removed.
+|- style="background: #e5e5e5;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: Do I have to read stuff and figure things out on my own?
+:<span style="color:#008000">'''A'''</span>: Yes, you do. If you are spoiled by modern games that hold your hand and mark everything for you then you are out of luck. Make sure to check the [[Guides]] section.
+|- style="background: #F3F3F3;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: Is there a free trial?
+:<span style="color:#008000">'''A'''</span>: Yes, 14 restrictive days, which is plenty to decide. [https://store.na.square-enix.com/product/442968/final-fantasy-xi-free-trial-pc-download '''NA''' Trial]. [https://store.eu.square-enix.com/eu/product/443883/final-fantasy-xi-free-trial-pc-download '''EU''' Trial].
+|- style="background: #e5e5e5;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: How do I transfer my trial account over after the trial is over?
+:<span style="color:#008000">'''A'''</span>: Buy the game, [https://secure.square-enix.com/account/app/svc/poltop click here], and select "Add Service Account". Put in your codes, and you should be good.<br />"Select Service" → "FFXI" Under "Active Service Accounts" → "Transfer to regular service" → enter the code provided after you purchase the game. Welcome to the community.<br />If you are having trouble with your PlayOnline code, then remember you needed one already to log into the trial.
+|- style="background: #F3F3F3;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: Why is the game updating so slow? I want to play!
+:<span style="color:#008000">'''A'''</span>: Back in the early 2000s when 56k was still a thing to consider. Comparable amounts of bandwidth were much costlier to companies than today. So, the process is a single-session FTP transfer that opens and closes the connection for each file. This is also slowed if PO viewer is in the background instead of the active window. So the soundest thing I can suggest to anyone is to plan ahead. When you want to play this game start the update before bed/work, and come back later when it is done.
+|- style="background: #e5e5e5;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: Will this guide answer everything?
+:<span style="color:#008000">'''A'''</span>: No, it is an informal and informative series of advice, tips, and an outline from 1 to 119. Discussing how to gear your job or play it, what is the best way to make money, or every event in the game is not the goal here.
+|- style="background: #F3F3F3;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: I heard the game is dying! Is it worth playing?
+:<span style="color:#008000">'''A'''</span>: First of all, that is dumb. Second, the Dev's claim that the [https://twitter.com/ff11_return/status/1033345878835134465 subscriber count is actually increasing]. Third, in the words of [https://www.ffxiah.com/forum/topic/47802/return-or-not-return/#3002482 Draylo] : "Yes, it is worth it."
+:Fourth, post Covid-19, the population of the game has increased even further. SE seems to be responding to this boon by [https://gamerescape.com/2019/05/23/the-future-of-ffxi-famitsu-interview-with-akihiko-matsui-and-yoji-fujito/ virtualizing and improving the servers] to ensure the games longevity, working on a  [https://forum.square-enix.com/ffxi/threads/55210-Freshly-Picked-Vana-diel-44-Digest 20th anniversary surprise], as well as focusing on [https://screenrant.com/final-fantasy-xi-interview-director-producer-anniversary-future/ longer term goals ] now instead of the shorter term plans they had settled into.
+:Fifth, Akihiko Matsui has stated "...we might even be able to keep going past our twentieth anniversary as long as the fans keep supporting us." So yeah, ''dead game''. As long as we continue to play and support it then XI will not die.
+|- style="background: #e5e5e5;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: Is there a BG Discord?
+:<span style="color:#008000">'''A'''</span> Yes, there is! [https://www.bluegartr.com/discord Come and join us.]
+|- style="background: #F3F3F3;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: What is Windower, should I use it?
+:<span style="color:#008000">'''A'''</span>: [http://www.windower.net/ Yes you should]. It is a third party launcher for the game with many useful addons and enhancements. Most notably "Gearswap" which I recommend you look into.
+|- style="background: #e5e5e5;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: What job should I play?
+:<span style="color:#008000">'''A'''</span>: While not everything is equal, you may succeed at any job in this game with the effort and know-how. No content is so hard that you must bring the very best jobs to it unless you are carrying ill-prepared people. The community often gives certain things a parroted stigma, but honestly the "worst" of jobs easily can be the best of them in the right hands and/or situations. That is a good thing about FFXI.
+:*For getting things done by yourself a job like [[Dancer]], [[Dragoon]], [[Blue Mage]], [[Ninja]], [[Beastmaster]], [[Puppetmaster]], or even [[Red Mage]] all stand out as being more apt to dealing with challenges alone, especially before level 99. Although with [[Trust]] NPCs you can really play any job in the game alone now.
+|- style="background: #F3F3F3;"
+|
+*<span style="color:#FF0000">'''Q'''</span>:What jobs are popular in endgame?
+:<span style="color:#008000">'''A'''</span>: While certain fights may have gimmicks that welcome a certain job or shun another there are a general popular group. While this changes, the popular endgame jobs are:
+:*Tank - [[Paladin]] (w/ [[Aegis]]), [[Runefencer]], both with sub [[Blue Mage]] available.
+:*Support - [[Geomancer]] (w/ [[Idris]]), [[Bard]] (w/ at least [[Gjallarhorn]], and 3 song [[Terpander]]), [[Corsair]], [[White Mage]], well geared [[Red Mage]].
+:*DD - [[Summoner]] (generally w/ [[Nirvana]]), [[Warrior]], [[Dark Knight]], [[Samurai]].
+:*Pick Up Groups (PUGs) - [[Blue Mage]], but there are too many variables to say that is the only answer. [[Monk]], [[Dragoon]], and [[Dancer]] are good for those sort of things too.
+:Now this doesn't mean certain groups don't just use whatever they want or even just use [[Ranger]]s to shoot things dead. It is just a general list, and anything not on it isn't a bad job. Keep in mind that endgame shells have their pick of the litter, and you will need to stand out (with multiple jobs). Otherwise just join a Linkshell (LS) where you can team up to progress and join an "endgame/event" shell later.
+|- style="background: #e5e5e5;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: But you aren't answering my question! What do I play?! I don't want to struggle!
+:<span style="color:#008000">'''A'''</span>: See below. Answering this in the FAQ became way too long.
+|- style="background: #F3F3F3;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: Players are shouting for jobs with an [[Ultimate Weapon]], do I need one?
+:<span style="color:#008000">'''A'''</span>: Players shout for this for a few reasons. Generally it is because they don't want a lesser experienced or weaker job. Often times though it is also because they don't really have a damn clue what they are really doing. If someone is shouting for Easy or even Normal difficulty [[Ambuscade]] for example, and is asking for REAM weapons. Then they are ignorant at best. You don't need to go out of your way to make these weapons for most content in the game.<br />
+:Relics weapons are easy enough to make, and eventually Aeonics will be the easiest for a veteran player. While Empyrean, Ergon, and Mythic weapons are more troublesome or expensive.
+|- style="background: #e5e5e5;"
+|
+*<span style="color:#FF0000">'''Q'''</span>: There is so much spam yelling! My chatlog is just scrolling with bots and trash!
+:<span style="color:#008000">'''A'''</span>: It is unfortunate, but there is a solution. See the [[Go Filter Yourself]] guide.
+|}
+
+===The "Which Job?!" Dilemma===
+Due to the prevalence of this "dilemma" being one of the most common things I come across time and again. Its something I will toss my opinion into. Overall, I don't know where to stick this section since it was for the FAQ. That means it goes here.<br />
+'''However, if you are a new or returning player a lot of this won't make complete sense to you.''' Feel free to skip this, and return to it later.
+
+----
+So, if you have this dilemma then what are you afraid of? Indecision? Ignorance? If you end up enjoying this game you will gain knowledge and experience. All you need is to become comfortable enough to form your own perspectives, and serendipity ensues. Be that as it may, one can only condense the entirety of an ever-shifting game so much. You will need multiple jobs, and you are going to need to sort that out yourself as you experience the game. FFXI is a process.
+
+What criteria do we even use to answer this definitively? Stop trying to find the absolute path of least resistance for what is supposed to be a leisurely activity.<br />
+Nobody wants a COR that just rolls and stands there. People bring mules for that sort of thing. So yeah, COR is a big deal, but COR takes a lot of investment to actually make a big deal. Corsair arguably takes some of the heaviest investment to shine. Which means it isn't something I recommend any new or returning player dive into first. Also, no one wants a GEO that just puts up a bubble and AFKs. You aren't going to just become a half-assed AFK GEO and leech your way to the top of the mountain and lot all the drops. Unless you already had people planning on carrying you, and then what does it ''really'' matter?
+
+[[Job Points]] mean a lot to certain jobs, and less to others. If you take a MNK to 500 JPs, and make the [[Karambit|Ambuscade Weapon]] then you can buy the [[Kendatsuba Garb Set]] off of the AH with a [[Moonbow Belt]] and [[Moonbeam Nodowa]], and successfully jump into endgame as an effective force with room to improve. From there you could easily farm Omen bosses, most of Escha, more JPs, etc and MNK works ''very'' well in lowman setups, especially if you exploit [[Subtle Blow]] II. Which could see you drastically reduce TP moves from NMs, and all but eliminate them with regular [[Mewing Lullaby]]s from a SMN.<br />
+However, that does mean you will be locked out of Ambuscade some months though as a MNK. Which also for whatever reasons of prevailing ignorance is very underrated compared to shiny schlong-swinging jobs like SAM or DRK.<br />
+Meanwhile, as a job like RDM needs at least 550 JPs just to get necessary spells, and even then would be missing 45 magic accuracy from [[Gifts]] at that point. It is easier to make up for physical accuracy than magical. RDM also wouldn't be able to just quickly get a good set off the AH and sprint into the fray.<br />
+Even worse, BLU really should get up to 1200 before trying to join more ''difficult'' content. That is far too much time to invest into job points as a new/returning player.
+
+So is it a popularity contest? Do you want people to just invite you to a random group so you don't have to make your own? That was answered in the question above where random endgame jobs were rattled off.
+
+So what would I personally do then if I was suddenly coming back to the game from scratch? Keep in mind this is me speaking, and I am sure others feel differently.<br />
+The first job I would pick is THF. Yeah, it isn't going to thrust me into endgame, but it will make forming the basis of my entire character easier, and pay dividends later. For example, farming Omen for {{ItemIcon|S. Astral Detritus|26}} [[S. Astral Detritus]] for either gil or augmenting [[Ultimate Weapons]]. Making a {{ItemIcon|Kaja Knife|26}} [[Kaja Knife]] is easy, and in 2-3 days of AFKing for a few minutes in [[Domain Invasion]] you can pick up a {{ItemIcon|Shijo|26}} [[Shijo]] (D) with no help, and several other items down the road such as {{ItemIcon|Adhemar Bonnet|26}} [[Adhemar Bonnet]] or {{ItemIcon|Odr Earring|26}} [[Odr Earring]].<br />
+You will also want to be THF if you find a couple of others to go farm [[Pulse Weapons]] for the final stage of creating [[Ambuscade Weapons]]. You would do this with [[Escha - Zi'Tah]] T3 NMs, and that is really an easy PUG to make.<br />
+You may also team up with a mage to [[Tractor]] and [[Raise]] you, and just {{ItemIcon|Living Key|26}} [[Living Key]] chests in [[Odyssey]] as a duo. Boom, so now you can also farm Odyssey, and if you really polished your THF you could find a space in an endgame shell, but that is a catch-22 as you need an endgame shell to apply said polish. You still need more jobs then. Healers, tanks, and support jobs have less barriers to be considered as effective compared to a DD job which will face more competition to earn a spot.
+
+My bias also makes BLU inevitable, and honestly I think it is the best job for running through all of the story in the game solo. Arguably the best job if you want to solo/duo/lowman anything from [[High Tier Mission Battlefields]], [[Delve]], [[Alluvion Skirmish]], [[Sinister Reign]], etc too. You may skip most of the early ones, but taking detours to go learn certain key spells is a rewarding "''waste''" of time. If you are truly looking to explore Vana'diel as a new player then BLU will lead you to those places you probably wouldn't have gone otherwise.<br />
+All in all, BLU is an option next or even starting at level 30 if you are a loner, and it doesn't take too much to gear up BLU (Kaja/[[Naegling]], offhand [[Vampirism]] or [[Colada]] for [[Savage Blade]]ing, etc), and shares a good deal of THF gear otherwise. THF also sets you up with [[TH]] for farming [[Lilith]] VE to grab the [[Malignance Attire Set]] for both jobs as well. Even a few pieces of Malignance makes running through things a lot easier. Perhaps you get it all and go unlock most of your Empyrean +1 solo as a BLU with Trusts.
+
+So, if I was trying to get more into groups at that point I would pick PLD or RUN next. My preferences lead me to choose RUN. There is a low barrier to entry as both jobs can get by into harder content with their [[Oboro]] weapon/shield, and are easy to gear overall. RUN also again shares some light armor with THF and BLU, but PLD really does have some points where it outshines. It will be markedly easier to tank on PLD sooner, and sometimes just in general, than it is on RUN. Certain fights will always lend more to one job or the other, but that generally doesn't mean one can work where the other can't. So now you have THF and a tank.
+
+To round everything out now you need a third job, a support job. For most this probably means WHM, GEO, BRD, or even RDM. Having a tank and any of those first three means you are in demand once you prepare them enough. Personally, I would choose COR, but I don't recommend anyone who requires this advice actually doing that, and honestly those other four jobs are better choices to round your character out as a whole.<br />
+Frankly, as far as GEO goes, it is a job that gets put directly into more danger than WHM, BRD, or RDM. That means you will need more equipment to protect yourself and your bubble, and that means more time, money, inventory, and investment. Which isn't something people really share very well when they advise people "LEVEL GEO, GROUPS WANT IT!" This has lead to a lot of low potency GEOs that would never be invited if their groups knew ahead of time. A COR can just toss out a roll, a WHM can easily gear to toss out a heal, but a GEO needs to have two capped skills, equipment, and to likely keep moving their bubble. GEO is a central job in the game, but players need to stop blindly choosing it.
+
+As always, follow the [[Job Guides]] for where to start aiming for equipment, but with 2.5 jobs you are set to eventually start expanding into other jobs in the game, but do not spread yourself too thin. Focusing on more than 2 or so jobs as a new or returning player will be a poor choice.
+
+So why didn't I include SMN? It is the preferred method to cheese out [[Aeonic Weapons]] after all, right? Well, yes, but that takes a a good deal of investment in Job Points, and equipment. All for a job you likely might not even care about. Otherwise, you are not going to be pulling your weight or may even be a primary cause of losing a [[Astral Conduit]] burn. Prepared groups that know what they are doing can easily clear most of the T4s in Reisenjima without SMN. Hey, remember MNK and Subtle Blow II? Well, [[Erinys]] remembers, and it hopes you forget.
+
+The fun doesn't stop either. Once you feel like you aren't walking into a headwind anymore then you can break into other things and find yourself a bit more. For instance, a cool [[Beastmaster]] is also very glossed over. Maybe you love that, and don't find out until later on.
+
+As a final note, I think it deserves some further reinforcement. All too often things are boiled down to how 'X' jobs are "good" when that is just not how it is. While a few jobs do need some real love from SE, all jobs in the game are valuable. Outside of overcoming certain mechanics, every job in this game is "good". It is only a matter of how well you develop them, and how well you understand the game in their application.<br />
+With that being said, my first job back sometime in 2007 was PUP. Keep in mind that I started June 2006, and that means it took about a year just to do one job. No one really wanted to invite me to a party or even to a serious linkshell for ''years''. Even just reaching level 75 probably resulted in some premature grey hairs, yet here we are. Yeah, you will struggle if you follow through with some shall we say— less popular choices. Once you have a foothold though, you will be in charge of your own destiny, so here we are.
+
+'''TL;DR''', pick a "path" that synergizes while still rounding out your character.
+:More Recommended for new players:
+:*MNK → PLD → WHM
+:*THF → RUN → BRD
+:Less Recommended for new or inexperienced players:
+:*RDM → PLD → GEO
+:*THF → RUN → COR
+:*WAR → PLD → DNC
+These are obviously not the only choices, but a quick few suggestions. Players could pick DNC instead of THF for example, and it would be a good job choice that plays well in groups despite lacking the recognition it should have.
+
+----
+
+===Gold World Pass===
+[[Gold World Pass]]es are invites from existing players in the game. You put in a code provided by an existing player and then an NPC gives you some free and useful stuff. It is detailed on [[Gold World Pass|that]] page, but don't get hung up on this if you don't have one lined up beforehand.
+* You can request a Gold World Pass sponsor [https://www.bluegartr.com/threads/130473-Gold-World-Pass-Requests '''Here'''].
+
+===Race and Nations===
+Pick any race you want for your character. It really doesn't matter at all and is mostly aesthetic. Back in [http://forum.square-enix.com/ffxi/threads/41117-Apr-8-2014-%28JST%29-Version-Update?p=501575&viewfull=1#post501575 2014] SE reduced the HP disparity between the races. Compared to modern equipment, race stats differences are beyond negligible.
+
+As far as nations that also doesn't matter much. You get a barely useful level 1 ring for choosing the nation affiliated with your race. The goal should eventually be to do the [[Missions]] in all three nations though.<br />Change your national affiliation at just about any time via an [[Allegiance Changer NPC]].
+
+{| style="text-align: center; margin: auto; width: 100%; max-width: 800px;"
+| style="background: #A6DBFD; text-align: center; width: 10%;"|
+'''Nation'''
+| style="background: #A6DBFD; text-align: center; width: 60%;"|
+'''Description'''
+| style="background: #A6DBFD; text-align: center; width: 30%;"|
+'''Ring'''
+|- style="background: #e5e5e5;"
+| '''[[Bastok]]'''<br />[[File:Bastok-Flag.jpg|45px|link=]]
+| Industrial and technological mining city inside a rocky, mountainous, and desert-like region near the sea.
+
+Home to the [[Hume]] and [[Galka]]n population as well as [[Cid]] and his [https://www.youtube.com/watch?v=Spf9CivVlPE big teeth].
+| [[File:Bastokan Ring description.png|330px|link=]]
+|- style="background: #F3F3F3;"
+| '''[[San d'Oria]]'''<br />[[File:San d'Oria Flag.jpg|45px|link=]]
+| Walled city and castle overseen by a monarchy. The surrounding area is a lush green forest.
+
+Home to the proud (snobby) [[Elvaan]] population. Facilities are arguably the most conveniently placed of the three towns.
+| [[File:San d'Orian Ring description.png|330px|link=]]
+|- style="background: #e5e5e5;"
+| '''[[Windurst]]'''<br />[[File:Windurst-Flag.jpg|45px|link=]]
+| An expansive city at harmony with the surrounding waters and greenery. [[Heavens Tower]], a massive and magical tree is the focal point of this nature based nation.<br />Windurst is the birthplace of magic and resides in a region of grasslands in a savanna.
+
+Home to the [[Tarutaru]] and [[Mithra]]n populations as well as the famous magician and rhyme artist, [[Shantotto]].
+| [[File:Windurstian Ring description.png|330px|link=]]
+|}
+
+==Levels 1-5==
+{|style="background:#FFFBF3; border:2px solid #E2B553; line-height:10x; padding:2px; max-width: 100%; margin: auto; vertical-align: top;"
+| '''Goals''':
+|-
+| style="vertical-align: top;"|
+*'''Configure Settings'''
+:*In your menu → Config.
+| style="vertical-align: top;"|
+*'''Home Points and Survival Guides'''
+:*Touch any you see to unlock them for teleportation.
+| style="vertical-align: top;"|
+*'''Level Up'''
+:*To level 5 right outside
+| style="vertical-align: top;"|
+*'''Join a Linkshell'''
+:*[[Linkshell Concierge]]
+| style="vertical-align: top;"|
+*'''Records of Eminence'''
+:*Start completing [[RoE]] objectives.
+|}
+After the opening cutscene you will find yourself in one of a few random spots somewhere in your chosen city. Roam around and acquaint yourself with the controls and your surroundings.<br />
+When you are ready open your map or type /map.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px">'''Pro Tip''': Selecting markers while inside your map and toggling left or right will allow you to see markers such as party members (blue), set your own markers (red), or marked items via NPCs (green). You may also select widescan and see NPCs in the area around you if you are looking for one.</div></blockquote>
+
+{|style="background:#FAFBFF; border:2px solid #A2ABDE; line-height:10x; padding:2px; width: 75%; margin: auto;"
+! style="font-size: larger;"| Settings
+|-
+| <div style="text-align: center;">Before anything else though change some settings really quick in your Menu → Config:</div>
+<div align=center>To open your menu, the default button is '''-''' <small>(minus key)</small>. Push it a second time for the Config section.</div>
+*'''Gameplay'''
+**Autotarget on - Automatically targets an aggressive monster you are facing after defeating a previous one. Turn this off situationally.
+*'''Chat Filters'''
+**Turn Say ~ Shout to the green "Hold".
+::Anything that ends in "Others" or "NPC" near the middle/end of the list, turn on.
+*'''Windows'''
+**This allows you to split your log in two and you should do that so mess around with it.
+*'''Misc 2'''
+**Background Aspect Ratio, match your screen to the game. If you are on a modern monitor it is 16:9.
+::Old square ones (or if you are playing in a smaller window) are 4:3.
+*'''Misc 3'''
+**Turn Party Icon Display and Timer Display on. Optionally, Area Dispaly for area radius (AoE) for abilities and spells.
+*'''Mouse/Cam'''
+**Screen edge panning off
+*'''Global'''
+**Chat language filter and Auto disconnect off.
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px">'''Pro Tip''': If you are ever stuck walking, hit the / on the numpad or the Z key if you are in compact keyboard mode (Misc 2 setting).</div></blockquote>
+|}<br />
+{|style="background:#FAFBFF; border:2px solid #A2ABDE; line-height:10x; padding:2px; width: 75%; margin: auto;" class="collapsible collapsed"
+! style="font-size: larger;"| Hot Keys and Text Commands
+|-
+| <div style="text-align: center;">You may want or need these.</div>
+'''Menu Based''':
+*'''Ctrl + W'''
+:*Weaponskill Menu
+*'''Ctrl + E'''
+:*Equipment Menu
+*'''Ctrl + I'''
+:*Inventory Menu
+*'''Ctrl + J'''
+:*(Job) Ability Menu
+*'''Ctrl + B'''
+:*Pet Command Menu
+*'''Ctrl + M'''
+:*Magic Menu
+*'''/keyitem'''
+*'''/quest'''
+*'''/mission'''
+*'''/map'''
+*'''/friendlist or /flist'''
+*'''/case or /sack or satchel or wardrobe or wardrobe2, etc'''
+*'''/sea'''
+:*Searches the current area. You may use /sea all for all areas, a /sea all playername to look everywhere for a player, a /sea all linkshell to search for LS members everywhere, etc.
+<br />
+'''Chat Based''':
+*'''Ctrl + R'''
+:*Reply to last /tell received. Press multiple times to cycle recent player names from /tell.
+*'''Ctrl + P'''
+:*Party chat
+*'''Ctrl + L or X'''
+:*Linkshell chat, L is for LS1 and X is for LS2
+*'''/lsmes'''
+:*Set or display linkshell message. Only the shell holder or pearlsacks may set a new message.
+*'''+ button'''
+:*Pushing the + button once selects your chat log. Pushing '''Enter''' while the chat log is selected will expand it to full window size.
+::*With the log expanded, the '''Up''' and '''Down''' direction arrows to scroll the chat log one line at a time, while '''Left''' and '''Right''' will scroll a ''page'' at a time.
+::*Additionally, you can sort the log by chat type by pushing the '''+ button''' again while the window is open. Notice that you will cycle through the window tabs on top of the log window when pushing it.
+*'''/itemsearch "item name"'''
+:*Searches your inventory for an item. Spelling must be exact, and abbreviated items such as "[[Nomad Moogle Rod]]" must be typed as "Nmd. Moogle Rod". Otherwise you will not be told it is in your inventory.
+::*BGWiki Item pages are always named after the abbreviated name, to reference.
+*'''Space'''
+:*Opens the chat menu.
+::*By pushing the '''Up''' directional arrow, you can cycle through the last few commands you inputted in order to quickly reuse a command without having to type it. This also works for chat messages sent.
+<br />
+'''Gameplay Based''':
+*'''Ctrl + H'''
+:*Kneels down to rest (Heal).
+*'''/areaeffect'''
+:*Turns AoE display on/off. Used to show where AoE spells/abilities will hit, but it is barely useful.
+*'''/away'''
+:*Now you won't get tells.
+*'''/autotarget'''
+:*Turns autotarget on off. Only works with monsters in combat that you face.
+*'''/checkparam'''
+:*Checks the paramaters (accuracy, attack, etc) of your target. Works on you and your pets.
+*'''/displayhead'''
+:*Toggles the visibility of your head armor.
+*'''/follow'''
+:*Auto follows your target. If you don't get stuck on some terrain, you may just auto run behind someone with this. If a player blinks from a gear change it cancels this.
+*'''/lastsynth'''
+:*Repeats the last [[Synthesis]].
+:*Adding /lastsynth <wait 23> over and over will allow you to make a macro for multiple uses.
+*'''/mount <name>'''
+:*Mount macro command. Mounts with two worded names will require quotations. E.g /mount "Spectral Chair"
+*'''/ignoretrust'''
+:*Prevents you from targeting other player's [[Trust]]s.
+*'''/hidetrust'''
+:*Makes the trusts  of other players invisible. Very helpful for events where a lot of players may call trusts in a small area at once.
+*'''/returntrust all or /retr all'''
+:*Releases all your trusts. You may also single target this instead.
+*'''/item "<item name>'''
+:*Uses an item. Useful for Echo Drops, Remedies, etc. May also be used with <t> to trade items to NPCs or ???s on the ground.
+*'''/names'''
+:*Hides other players names.
+::*As has been asked multiple times for some reason, no you may not hide your own name. No one cares about you videos/live streams anyway.
+*'''/partyinfo showtp'''
+:*Makes the TP of other party members (not trusts or NPCs) visible.
+*'''/statustimer'''
+:*Shows the time remaining of buff/debuff icons at the top of your screen.
+*'''/statusparty'''
+:*Shows the buffs and debuffs of your targeted party member.
+*'''/focustarget playername'''
+:*Similar to statusparty, but only for one party member, and they don't need to be selected. Reissue the command to remove it or change the target.
+*'''/pcmd or /acmd'''
+:*Party or alliance command. Important subcommands include (/pcmd or /acmd) add playername to invite a player or party to the party or alliance. leader playername to pass leader or alliance leader. leave to leave the alliance or party. kick playername to kick the player or alliance.
+*'''F1 ~ F6'''
+:*Target yourself (F1) thru each of your party members (or trusts) when outside of combat '''OR''' you are under the "Sub Target" menu (blue target arrow) after choosing an ability or spell to use.
+::*Party member order can be changed in any order you wish via the '''Party''' section of the main menu. Obviously, this is only possible when you are in a party.
+::*Although this wont be of significance to you anytime soon, you can use a combination of '''Ctrl''' + '''F1~F6''' and '''Alt''' + '''F1~F6''' to target other party members in your alliance.
+*'''F8'''
+:*Target the closest NPC and/or monster near your character.
+*'''+''' '''+'''  button
+:*Hitting the '''+''' button on the numpad twice allows you to access the Status Icon menu if you have any active buffs. This will allow you to see what currently active statuses you have on you.
+::*Hitting "Enter" when you are hovered over a status allows you to cancel it.
+:::*Many statuses are not cancellable, including detrimental effects. Statuses such as [[Signet]] can be overwritten and refreshed, but [[Food]] needs to wear off without the use of an [[Antacid]] or being defeated.
+|}
+'''Friend List'''
+
+The Friend's List within the game is an archaic 2000's AOL instant messenger-like feature. It is closely tied into PlayOnline, but it is still functional to this day.
+
+To access your Friends List, navigate to your main menu (second screen of it) and click the "Communication" button. Within that sub-menu, click Friend List. On yet another sub-menu, you have three options:
+
+*To List: Displays your friends, and their online status.
+*Messages: Friends can leave you messages if you are offline. These can be accessed via in-game or from POL before logging in. If you leave the messages unread, an annoying "New Message" icon flashes at the same location as your Network connection status on the top right of your screen. If you view the message within POL, you can send a message back to them.
+*Online Stat.: This displays your online status to your friends. '''All new accounts are set to "Invisible" by default!''' This means you appear as Offline to your friends, thus rendering the friend's list worthless for them. Always change this to Online. "Away" sets you so that three dots "..." appear next to your name, and nobody can send you a /tell. They receive an error message saying you are away and cannot receive tells. You can still play the game if you set your status to Away.
+
+Adding Friends: To add a friend to your Friend's List, use the command '''/befriend NAME'''. This will pop up a message box with your friend's name in it. This is the opportunity to change the display name of your friend for you only. Push enter again to send the request.
+
+Confirming a Friend: The other player will receive a message saying you are requesting to add them as a friend. They then have the opportunity to decline the request, or confirm it. Just like you, they now have the opportunity to change the display name for them for your name. If they push Enter, they then confirmed you as a friend. They receive a message saying that you accepted their request.
+
+Under the Online Friends section, players can see who is online via POL, in FFXI, and in-game. When Tetra Master was in service, it could also display if that friend was playing Tetra Master.
+*If the person is on POL, it shows them as Online but ''no blue "XI" icon shows by their name''.
+*If they are within FFXI, only a blue "XI" icon shows up.
+*If the friend is playing FFXI on your same world you are, it shows their character name as well as the zone they are in on the right.
+**If that player is on a different world than you, only ''<World>'' will display on the right. You can still send PlayOnline messages to them, but obviously cannot /tell.
+
+
+
+{| style="padding:3px" align=right
+|
+[[File:Linkshell Concierge.jpg|350px|right|link=]]
+|}
+'''Linkshell Concierge''':
+
+Make your way to any of the following exits: [[Bastok Markets]] (E-11), [[Southern San d'Oria]] (G-10), [[Windurst Woods]] (J-10) to get started.<br />Use either your map or the position next to your clock (bottom left) to find where you are on the map. If you don't see this type /clock which toggles the visibility of it.
+{|width=70%
+|
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px">'''Pro Tip''': Select any blue floating crystal [[Home Point]]s that you find. You may warp between any you have previously selected. These are visible on your map, and ones that blink have yet to be obtained.</div></blockquote>
+|}
+On the way to an exit you may run into a '''[[Linkshell Concierge]]'''. These hold linkshells and you may take one out per game day. Each NPC has a different stock to hold and it is cleared out after any maintenance. Start trying them out so you can meet people, get in a group, ask questions, etc.<br />
+That or you could /yell something like: NO WIFE! NO KID! NO HOME! HEEEEEELLLLPP MEEEEEE PLEASE! 1,999k CAN I HAVE IT?!" or you know, "new and need a linkshell, {Help me out!} {Please assist}."<br />
+Don't get discouraged by shouts, some people just play this game to treat it like an AoL chat room. If you sensitive to this then you can always /blist add Playername.
+{| style="border: 1px solid #3C6A95; text-align: center; margin: 10px; width: 100%; max-width: 575px;" cellpadding="1" cellspacing="0"
+|-
+! style="background: #A6DBFD;"| Concierge Locations
+|-
+|style="border-top: 1px solid #3C6A95;"| [[Northern San d'Oria]] (K-9)
+|-
+|style="background: #D8EFFE; border-top: 1px solid #3C6A95;"| [[Bastok Mines]] (K-9)
+|-
+|style="border-top: 1px solid #3C6A95;"| [[Windurst Walls]] (C-13)
+|}
+Once you reach an exit grab {{ItemIcon|Signet|25}} [[Signet]] from one of the NPCs with a title at the end of the name near the exit (I.M., T.K., or W.W.). Then we will go over your new routines.<br />
+Signet being one of those routines. Regions in this game have a buff like [[Signet]]. They are not all the same, but all you need to know is it allows you to collect crystals from monsters in nation controlled regions, and [[Conquest Points]].<br />Since inventory is tight, sell these crystals in stacks (x12) on an Auction House (AH) or store them in an [[Ephemeral Moogle]]. Moogles all share the same inventory.
+
+:Speaking of inventory, read over '''[[Inventory 101]]'''.
+
+'''[[Records of Eminence]]'''
+:Or [[RoE]] as it is known, will be your bread and butter. It will provide you with free exp, occasionally an item (depending on objective), a currency named [[Sparks]], etc.<br />Sparks are the most important as they provide you with easy access to equipment and money via selling said equipment to the NPC. All ordinary equipment that you can buy with sparks resells for the same ratio as the cost is equal to the NPC resale price. So just buy and sell the highest costing item <span class="has-image-popup">([[Acheron Shield]])<span class="image-popup" style="z-index: 10;width: ??? px; padding: 1px; background-color: #; border: 1px solid #DDDDDD; text-align: center;">[[File:Acheron Shield description.png|link=Acheron Shield]]</span></span> in the future when you build up sparks.
+:*See '''[[Sparks]]''' for a list of items from RoE NPCs.
+
+:Open up your quest menu and select Objective list → Tutorial → Basics. Begin completing these objectives. The goal is to do the entire Basic section. More will open up as you complete them.
+::You may skip the "Stepping into an Ambuscade" objective for now.
+
+:So your goal is to reach level 5 at this point while doing those Basics [[RoE]] objectives. Head outside (did you remember [[Signet]]?) and we can tackle the final part of this section.
+
+'''Floating Books!'''
+:These floating books outside near the entrance have an immediate value. The bobbing black [[Survival Guides]] work similar to [[Homepoint]]s in that you can warp between them and yes they also show up on your /map.
+
+:[[Fields of Valor]] (FoV) books are simply small repeatable zone based objectives that allow you to gain some extra EXP. They are in the Basics objectives so you will come across them and need to complete an objective.<br />Otherwise the last note of these are that they provide points ([[Tabs]]/gil) once per game day for an objective. You may notably spend these tabs on "Repatriation" which warps you to your home nation.
+
+:[[Grounds of Valor]] (GoV) is nearly the same as FoV just in different, and dungeon areas or higher level zones. Subsequent completions of these objectives provide you with minor enhancements (noted by a book with stars icon) while you are in the zone. They also use [[Tabs]] like FoV and can warp you to your home point as well as repatriate you.
+
+:Once you reach level 5 via RoE and maybe a small defenseless monster or two, get ready to head back inside for the next part. After you reach level 3 and zone back inside your nation you will also get a cutscene for Rhapsodies of Vanadiel Missions. Just ignore this for a moment.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px">'''Note''': At some point you will need to increase how famous you are in order to unlock certain quests such as [[Avatar]]s for [[Summoner]]. You do not need to worry about this right now, but see the '''[[Fame]]''' page at some point when you do need fame.</div></blockquote>
+
+'''Login Campaigns'''
+:The final thing to note are [[Repeat Login Campaign]]s. These have been regular for years now. Basically every time you log in, you get points. You use these points during the month to exchange for items via [[Greeter Moogle]]s.<br />These items generally help new players much more than existing players so take advantage and check that page each month the campaign changes to see what is offered.<br />Points are reset after the version update each month, but 1,500 may carry over to the next month.
+
+:A regular question new players ask is what to spend their Login Points on. While that isn't so straight forward as the rewards shift too much for one write-up. There are some general things aside from [[Trusts]] or [[Mounts]] you should grab.
+:*[[Kitchen Brick]], [[Kitchen Stove]], and [[Kitchen Plate]] in order to make a {{ItemIcon|Galley Kitchen|26}} [[Galley Kitchen]] for a quick 16 spot "Storage" section boost to your Mog House after you place it inside your house in your home nation.
+::*This will require you going over to a [[Synergy]] furnace, paying the Engineer NPC there 100 gil to obtain a [[Synergy crucible]] {{KI}} (one time only), selecting the furnace, trading these items, hitting to feed Fewell once on {{fire}} fire and once on {{earth}} earth, and then selecting to end your synth, and finally speaking to the furnace in order to remove the synth from it. Easy.
+:*A {{ItemIcon|Wh. Rarab Cap|26}} [[White Rarab Cap +1]] from synergizing two NQs, it grants [[Treasure Hunter]] +1 and Reraises.
+::*The item may be removed after applying the effect. Macro it in for a spell, ability, or melee hit, and then macro it out.
+:*{{ItemIcon|Beastmen's Seal|26}} [[Beastmen's Seal]]s are great to collect and store later with [[Shami]] in Port Jeuno.
+::*Items such as {{ItemIcon|Utsusemi- Ni (Scroll)|26}} [[Utsusemi: Ni]], {{ItemIcon|Phalanx (Scroll)|26}} [[Phalanx]], and the {{ItemIcon|Kraken Club|26}} [[Kraken Club]] are only found in the fights these seals grant entry to. These items are valuable to this day.
+:::*Sometimes, there is a BCNM [[:Category:Adventurer_Campaigns#BCNMs|Adventurer Campaign]] going on in game where these scrolls will flood the market and floor in price. Shortly after it ends they will shoot back up to 200, 300, 400k, etc.
+:*If all else fails, {{ItemIcon|Beastly Shank|26}} [[Beastly Shank]] and {{ItemIcon|Savory Shank|26}} [[Savory Shank]] are always worth money as they correspond to obtaining the {{ItemIcon|Defending Ring|26}} [[Defending Ring]], but you must Bazaar/Shout sell them.
+::*See their pages on FFXIAH.com to get an idea of the going price.
+
+'''Maps and Spells'''
+:Back in the day many maps and spells were quested only. All maps may now be purchased from NPCs as well as spells such as [[Sleepga II]] or [[Utsusemi: Ichi]]. You no longer need to overpay on the auction house or waste time questing them.
+:*Search for the "map of xyz zone" on the wiki or utilize the [[Map Vendor]]s page.
+:*All scroll information for spells on the wiki is on a separate page accessible via clicking the "Scroll Page Link" icon.
+----
+<span style="color:#FF0000">'''Note:'''</span> Story time level suggestions in the following level ranges are in general, best educated guesses for a solo player. The level you can do them really depends on your main job, strategy, knowledge, skill, equipment, etc. A job like PUP, DRG, BST, RDM, DNC, or BLU will fare much better at completing something solo over a job like WHM or GEO. If you are having too hard a time for something then rethink your approach, get some help, improve your equipment, or level a little bit then try it again.
+
+Overall, these levels are here for people who don't want to just faceroll the game and get a lot more out of it.
+
+Also, a lot of these missions are directly tied into the advice provided within this guide too. If you are looking to just rush up to level 99 then know this is '''not''' a "speed run" guide.<br />
+No, the irony of a "Quick Start" guide not being about the quickest way to get something done isn't lost on me. Rushing is meaningless in my eyes though.
+----
+
+<blockquote><div style="background:#FFEEEC; border:2px dashed #FFA99F; line-height:10x; padding:2px; text-align: center;">'''Pro Tip''': If you are unsure of something that you come across in-game; albeit what an item is for or comes from, mission help, quest information, trusts, etc... try searching for ''anything'' on the wiki!<br />We have hundreds of redirects in place for exactly this type of situation, and 99% of questions are already answered here.<br />Not that we discourage you from interacting to other players... but dumb questions are dumb.</div></blockquote>
+
+==Levels 5-10==
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px"
+| style="vertical-align: top;" colspan="3"| '''Story Time''':
+*'''Nation Mission''' 1-1 of your nation:
+|-
+| style="width: 33%;"|
+*[[File:Bastok-Flag.jpg|27px|link=]] '''[[Bastok Missions]]'''
+| style="width: 33%;"|
+*[[File:San d'Oria Flag.jpg|27px|link=]] '''[[San d'Oria Missions]]'''
+| style="width: 33%;"|
+*[[File:Windurst-Flag.jpg|27px|link=]] '''[[Windurst Missions]]'''
+|-
+|colspan="3"|
+:*This may be completed around level 5.
+
+*'''Nation Missions''' 1-2
+:*This may be completed around level 8. Earlier with [[Trust]]s.
+
+*'''Nation Missions''' 1-3
+:*This may be easily completed around level 10 with [[Trust]]s.
+
+Nation missions aren't the most exciting story, but they are where you get your start.
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FFFBF3; border:2px solid #E2B553; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Goals''':
+*'''Unlock Trusts'''
+:*At level 5
+*'''Join a Unity'''
+:*As soon as possible.
+*'''Level Up'''
+:*[[Fantastic EXP]] guide
+*'''Achieve Nation Rank 2'''
+:*This is a prerequisite for things later.
+|}
+</div></div>
+
+<div style="padding-top: 5px;">[[File:TrustsQSG.png|350px|right|link=]]</div>
+'''Acquiring Trust Magic''':
+:Upon reaching level 5, a player may begin to unlock '''[[Trust]]''' magic by completing one of these three initiation quests:
+{|
+|
+*'''[[Trust: Bastok]]'''
+|
+*'''[[Trust: San d'Oria|<span style="color:#FF0000">Trust San d'Oria</span>]]'''
+|
+*'''[[Trust: Windurst|<span style="color:#008000">Trust Windurst</span>]]'''
+|}
+
+:[[Trust]]s are an essential part of the game. They are summonable NPCs of characters in game that will fight along side you in place of party members.<br />The Basics [[RoE]] objectives will provide you with some solid starter trusts to use, but there are better ones and plenty to unlock. Utilize the '''[[Trust]]''' page for more details.
+
+:Trusts are considered spells and thus may not be used if you are silenced, and their recast is greatly impacted via Haste and Fast Cast+.
+
+:Certain trusts are also only available during special periods in the game, and this is noted on the [[Trust]] page. Some of these trusts are very good such as [[Cipher: Amchuchu]] or [[Cipher: King]]. Certain events to watch for are:
+:*[[Repeat Login Campaign]]s (Random Trusts, monthly)
+:*[[Spring Alter Ego Extravaganza|Spring]] & [[Autumn Alter Ego Extravaganza]]s (Same Trusts, two times a year)
+:*[[New Year's Alter Ego Extravaganza|New Year's]] & [[Summer Alter Ego Extravaganza]]s (Same Trusts, two times a year)
+:There are other events outside of this such as random appreciation campaigns that provide a [[Red Mog Pell]], but this is not a consistent thing. There is also the anniversary every March which grants a few Trusts.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px;max-width:700px">'''Pro Tip #1''':The level of your [[Trust]]s does not increase when you level up. You must release and resummon them.
+
+'''Pro Tip #2''':Trusts are always summoned at maximum HP and MP. This being said, it is quicker to release and resummon your healer Trusts to continue gaining Experience Points instead of waiting for them to naturally recover MP if they are out. This is only true if the recast timers previously mentioned are ready, of course.</div></blockquote>
+
+'''Macros''':
+:Something people take for granted, but you may not understand are [[Macro]]s. There are just customizable buttons. See the '''[[Macro]]''' page for more on macros, but some basic example are:
+:: /ja "Job Ability Name" <t> (for your target) or <me> to use it on yourself.
+:: /ma "Spell/Trust/Ninjutsu Name" <subcommand>
+:: /pet "Pet Command" <t>
+:You may add a wait between lines at any time by adding <wait 1> to 60.
+::So if you are making a macro for trusts you would put:
+:::/ma "Mihli Aliapoh" <me> <wait 8>
+:::/ma "Valaineral" <me>,   and so on.
+:You probably should not have this as a macro, but the command "'''/refa all'''", when used, will release all of your trusts. This is useful for resummoning them after leveling up, or quickly joining a party while in the field.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px;max-width:850px">'''Pro Tip''':Type /itemsearch "''Exact'' item name here" to see if an item is in your posession. For example: '''/itemsearch "Earth Crystal"'''. Quotes are needed when the item is more than one word, but not needed if it is only one word.</div></blockquote>
+
+'''Unity''':
+:'''[[Unity]]''' is an extension of Records of Eminence and utilizes Accolades. Accolades are used to spawn Notorious Monsters (NMs) for rewards of Sparks and items.<br />Most importantly, and the reason I mention this is because Unity allows you to quickly warp to areas you haven't even been before as a new player. Which saves you an immense amount of time.<br />By selecting to warp to a zone next to [[Jeuno]] like [[Batallia Downs]] you can walk right into Jeuno for the first time without all the running on foot and death, if you so choose.
+
+:Simply speak to one of the [[:Category:Unity_Concord#Requirements|Unity NPCs]] and ask to be brought to one of the areas for a price of 100 accolades.<br />If you lack [[Accolades]], then a single [[Copper Voucher]] rewarded from Records of Eminence (Other → Daily Objectives → Vanquish 30 enemies, for example) may be exchanged at one of the RoE NPCs. Select currencies, and 1 Copper Voucher is able to be redeemed for 1,000 Accolades.<br />After joining your Unity you may also gain an instant 195 accolades by typing anything into the Unity channel (/u hello) after flagging the Unity → Unity (Shared) → U. Communique objective. If it is greyed out that is because it is full of people at the moment.
+
+:In order to join a [[Unity]] you must be at least level '''5''', and have completed '''10''' different RoE objectives. Simply speak to one of the [[:Category:Unity_Concord#Requirements|Unity NPCs]] (next to the RoE NPCs) and select which one you want to join.<br />I would recommend starting off with Apururu or Yoran Oran as they are the best White Mage trusts in the game.
+:If you are short on the 10 required objectives then you can speak to some of the guild master NPCs under Tutorial → Synthesis
+
+'''Skipping Missions''':
+:Certain nation missions are skippable by trading a few crystals to the NPC. These are the second of three missions generally, and are noted in the green story box for the section if skipping is possible.
+:Certain missions like San d'oria missions 3-2 requires you to go fishing for a [[Crystal Bass]]. That isn't something I suggest you get stuck on.
+
+:On the flip side, you do ''NOT'' want to skip Windurst mission 3-2 as it provides you access to a [[Portal charm]] which opens a pesky gate that you need to pass for those missions or unlocking [[Fenrir]].
+
+'''Leveling''':
+:Refer to the '''[[Fantastic EXP]]''' guide leveling spots.
+
+'''Treasure Caskets''':
+:By now you will probably have run into a few blue and brown [[Treasure Casket]]s in the field. If not, they appear at random after defeating a monster. Both types of caskets are timed, and only stay around for a minute or two before disappearing on their own.
+:Blue caskets give temporary {{Tmp}} [[Medicine]]s. They disappear from your inventory after zoning into a new area.
+:Brown caskets are locked. You can play a mini game of number guessing in order to open it. Keep in mind of the timer while you are unlocking it.
+::Inside can be level appropriate equipment that ''generally'' matches the monster level of the area.
+::Additionally, dungeons have a unique {{Rare}} {{Ex}} piece of equipment that can be inside of these chests. They are unique to each zone. Be sure to look at the [[Treasure Casket]] page if you wish to learn more.
+
+==Levels 10-20==
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px"
+| style="vertical-align: top;" colspan="3"| '''Story Time''': You may complete most of Rank 2 for your nation.
+:Assume now that trusts are always factored in to the level range.
+|-
+| style="width: 33%;"|
+*[[File:Bastok-Flag.jpg|27px|link=]] '''[[Bastok Missions]]''' 2-1
+| style="width: 33%;"|
+*[[File:San d'Oria Flag.jpg|27px|link=]] '''[[San d'Oria Missions]]''' 2-1
+| style="width: 33%;"|
+*[[File:Windurst-Flag.jpg|27px|link=]] '''[[Windurst Missions]]''' 2-1
+|-
+|colspan="3"|
+:*This may be completed around level 15.
+
+*'''Nation Missions''' 2-2
+:*You may ''skip'' mission 2-2 by trading some extra crystals to the gate guard.
+::*Otherwise This may be completed around level 20.
+
+*[[File:Rhapsodies_Icon.png|27px|link=]] '''[[Rhapsodies of Vanadiel Mission]]s''' 1-1 to 1-4
+:*This may be completed around level 15.
+::*RoV missions offer huge boosts to players and provide a number of bonuses via Key Items.
+::*RoV 1-4 will reward you with a [[Gilgamesh's introductory letter]] which unlocks your [[Support Job]].
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FFFBF3; border:2px solid #E2B553; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Goals''':
+*'''Unlock your Sub Job'''
+:*Via the [[RoV]] mission [[Set Free]] around level 15 or the [[Support Job|quest]] at level 18+
+*'''Level Up'''
+:*[[Fantastic EXP]] guide
+*'''Complete Missions'''
+:*Nation and RoV.
+|}
+</div></div>
+
+'''Sub Jobs''':
+:Ordinarily '''[[Support Job]]'''s AKA subjobs AKA subs, were unlocked at level 18 by players from a quest players generally needed help with. Nowadays though you may unlock it sooner (and alone!) via completing [[Rhapsodies of Vanadiel Mission]] 1-4, '''[[Set Free]]'''.
+
+:Sub jobs are exactly what you might expect, a secondary job that grants you the traits, spells, and abilities of that class. The only catch is that subjobs:
+:*Are half the level of your main job.
+:*Level separately. You must change jobs at your Moogle and level other jobs separately.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px">'''Pro Tip''': [[Instant Reraise]] from the Gate Guards that provide [[Signet]] will, if used before death, allow you to raise back up after being knocked out, regardless of your current job.</div></blockquote>
+
+==Levels 20-30==
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Story Time''': Finish nation Rank 2.
+|-
+| style="width: 33%; vertical-align: top;"|
+*[[File:Bastok-Flag.jpg|27px|link=]] '''[[Bastok Missions]]''' 2-3
+| style="width: 33%; vertical-align: top;"|
+*[[File:San d'Oria Flag.jpg|27px|link=]] '''[[San d'Oria Missions]]''' 2-3
+| style="width: 33%; vertical-align: top;"|
+*[[File:Windurst-Flag.jpg|27px|link=]] '''[[Windurst Missions]]''' 2-3
+|-
+| style="vertical-align: top;" colspan="3"|
+:*This may be completed around level 25+.
+:*Obtaining Rank 3 unlocks access to [[Cipher: Ayame]], [[Cipher: Curilla]], and [[Cipher: Nanaa Mihgo]].
+*[[File:Rhapsodies_Icon.png|27px|link=]] '''[[Rhapsodies of Vanadiel Mission]]s''' 1-5 to 1-7
+::*RoV 1-6 will reward you with a [["Rhapsody in White"]] key item. This allows you to call an extra trust.
+:*1-7 Requires Rank 3 in your nation.
+::*RoV 1-7 enables acquiring [[Cipher: Semih]], speak [[Kupipi]] to acquire.
+:::*Semih will be one of your best early DD trusts.
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FFFBF3; border:2px solid #E2B553; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Goals''':
+*'''Unlock Chocobo Licence and Mounts''':
+:*In [[Upper Jeuno]] at level 20.
+*'''Level Up'''
+:*[[Fantastic EXP]] guide
+*'''Complete Missions'''
+:*Nation and RoV Missions
+'''Optional''':
+*'''Unity warp'''
+:*To [[Jeuno]] for the first time to save time running.
+::*Increase [[Fame]] for some [[Gobbie bag]] inventory expansion quests.
+:::*This is [[Fame#Quickest Claim To Fame|super easy to do.]]
+*'''Utilize Curio Moogles'''
+:*Access granted after RoV mission 1-6
+|}
+</div></div>
+
+'''Remember Signet?''':
+:After fighting enemies in conquest zones with the aforementioned Signet on you will gain [[Conquest Points]].
+:After gathering 5,000 conquest points buy a [[File:Warp Ring icon.png|27px|link=]] [[Warp Ring]] from the Signet Gate Guard. This is one of the most useful items in the game (returns you to your Home Point) and the first thing you should buy with these points before an [[Emperor Band]] (EXP Boost).
+:*Conversely, [[Homing Ring|Homing]] and [[Return Ring]]s are entirely useless.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px; max-width:600px">'''Pro Tip''': Type /''rmap'' to quickly open the Conquest Map and view your [[Conquest Points]]</div></blockquote>
+[[File:500pt_en_jul17.png|250px|link=|right]]
+'''Chocobo License and Mounts''':
+:Utilize the [[Unity]] warp level 125 → [[Batallia Downs]] to be placed right outside of [[Upper Jeuno]] where you will unlock your '''[[Chocobo license]]''' via the quest [[Chocobo's Wounds]]. This will allow you to rent a Chocobo from the Stables.
+
+:After obtaining your license you may then unlock '''[[Mount]]s''' via the quest [[Full Speed Ahead!]]. Mounts are much more convenient than chocobos as you can use them in the same area and call them in the field. You can not be attacked while riding a Chocobo or a Mount either, but they can not be called in dungeons.
+
+'''In Living Rhapsody Color''':
+:After completing RoV 1-6 you will be granted the [["Rhapsody in White"]] key item. There are 9 '''[[RoV KI]]s''' and each provides you with a boost.
+::For example this white on will provide you with double the rate of skillups, 30% more EXP gaining, a lower home point warp cost, and the ability to call a fourth [[Trust]]. Forever, that is it, just get the key item.
+
+'''Curio Moogles'''
+:'''[[Curio Moogle]]s''' sell very useful items for your benefit. Their inventory is increased the more you obtain RoV KIs.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px">'''Pro Tip''': Remember that you may only hold on top 99,999 sparks, any more are simply lost. Spend them on new armor and weapons from a [[Sparks]] NPC or [[Acheron Shield]]s (71-98) to NPC if you have excess.</div></blockquote>
+
+[[File:Goblins.jpg|200px|right|link=]]
+
+'''Gobbie Bag''':
+:'''[[Gobbie bag]]''' quests will expand your inventory by 5 per quest which you likely are dying for right now. The main issue with these will be the cost of items, but if you have been taking advantage of seeking out various [[RoE]] objectives then you should be able to NPC some [[Acheron Shield]]s (NPC → 71-98) for ~27k per shield and get one.
+:* Remember the [[Inventory 101]] Guide?
+
+::{| style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px; margin: auto;"
+|'''Pro Tip''': Mog Sacks do not automatically increase with a Gobbie bag like Mog Cases do. You must speak to an '''[[Artisan Moogle]]''' to increase your sack size. Don't have a sack yet? Why not? It only costs ~10,000 gil from the same moogle.    
+|}
+
+==Levels 30-40==
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px"
+| style="vertical-align: top;"| '''Story Time''': Complete Rank 3 Missions
+|-
+| style="width: 33%;"|
+*[[File:Bastok-Flag.jpg|27px|link=]] '''[[Bastok Missions]]''' 3-1
+| style="width: 33%;"|
+*[[File:San d'Oria Flag.jpg|27px|link=]] '''[[San d'Oria Missions]]''' 3-1
+| style="width: 33%;"|
+*[[File:Windurst-Flag.jpg|27px|link=]] '''[[Windurst Missions]]''' 3-1
+|-
+|colspan="3"|
+:*This may be completed around level 30.
+
+*'''Nation Missions''' 3-2
+:*You may skip mission 2-2 by trading some extra crystals to the gate guard.
+::*Otherwise This may be completed around level 35.
+::*Do not skip Windurst 3-2 [[Written in the Stars]].
+
+*'''Nation Missions''' 3-3
+:*This may be completed around level 40.
+'''
+
+*[[File:Tavnazia-Flag.jpg|27px|link=]] '''[[Chains of Promathia Missions]]''' Chapter 1
+:*You may complete chapter 1 of CoP around level 35+.
+:*CoP's story line is known for being good if that is your thing.
+:*This will become a prerequisite for RoV missions.
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FFFBF3; border:2px solid #E2B553; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Goals''':
+*'''[[Abyssea]]'''
+:*Complete the quest [[The Truth Beckons]] at level 30 to being acquiring [[Traverser stone]]s.
+*'''Level Up'''
+:*[[Fantastic EXP]] guide
+*'''Complete Missions'''
+:*Nations, RoV, and CoP
+::*Windurstians should complete 3-2 and other nations should skip 3-2.
+:::*Windurst 3-2 grants a [[Portal charm]].
+'''Optional''':
+*Unlock [[Jobs]]
+*'''RSE Quest'''
+:*Obtain [[The Goblin Tailor|Race Specific Armor]].
+*[[Mog Garden]]
+|}
+</div></div>
+
+'''Abyssea'''
+:'''[[Abyssea]]''' is a series of 9 zones with a small storyline. It premiered shortly after the level cap was raised from level 75. A few important things are still linked to this zone such as a set of armor for your jobs you will need to pick up. You don't need to worry about Abyssea until a much higher level though as you won't be doing anything in there for now.
+:You do however need to complete '''[[The Truth Beckons]]''' quest starting at level 30 in order to begin obtaining [[Traverser stone]]s. You see, one does not simply walk into Abyssea. You must spend traverser stones in order to be in the zone. Each stone grants you 30 minutes in the zone. After you complete the quest you will begin accumulating a stone every 20 real hours.
+[[File:BLUCORPUP.jpg|right|375px|link=]]
+:There are various ways to increase your stone gain rate or even stay in the zone longer, but we will cover [[Abyssea]] more later, just unlock access to the stones for now.
+
+'''Unlocking Jobs'''
+:Any '''[[Job]]''' you don't have may be unlocked at 30. Each quest for a job is listed on their page.
+
+::{| style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px; margin: auto;"
+|'''Pro Tip''': Store your [[File:Beastmen's Seal icon.png|27px|link=]] [[Beastmen's Seal]]s with [[Shami]] in [[Port Jeuno]] to save inventory space. Shami will hold all of these varieties. They are used for [[BCNM|special fights]] or certain [[Limit Break]]s later.
+|}
+
+'''Nation Missions''':
+:Once again if you are from Windurst do not skip 3-2 [[Written in the Stars]]. It provides you with access to the [[Portal charm]] which is important to have.
+
+'''RSE Armor'''
+:Also in the same building as the Gobbie bags is your RSE quest, [[The Goblin Tailor]]. For those of you who have never heard of RSE (Race Specific Equipment), it is an all but forgotten throwback.
+:Fortunately, [[RoV KI]]s (and [[Survival Guide]] warps) has made this quest worthwhile again. Your RSE will provide quality armor (levels 29-33) for awhile and is wearable by all jobs. Each piece is designed to compliment your racial shortcomings so only certain pieces may be good for a particular job. Given this, RSE is great to throw on for awhile and have for the next job.
+
+:All you must do is pick up a chest key from the [[Curio Moogle]] and unlock a specific chest for a key item, return to the goblin, and then repeat immediately. This is of course really easy and cheap to do as the keys costs 2,500 gil after you have your [["Rhapsody in White"]] {{KI}}.
+:The kicker is that you must first wait for a time window to open before you may quickly obtain these pieces. Each race has a game week (~8 hours IRL) where they are eligible to obtain the key item through the quest. The quest cycles each race in a row. Three zones are also cycled so the zone for your race won't repeat next window.
+:*This eligibility period means you may have to wait a real day or two before you may actually quest this armor.
+:On [[The Goblin Tailor]] quest page there are links to some ancient and somehow still functional websites which will tell you when your pattern will occur. There are probably also mobile apps or something out there that may have it, who knows.
+
+'''Money''':
+:Yes, sparks are going to probably be the best way of making it at this point, despite the 100,000 spark limit per real life week, reset on JP Midnight Sunday. This is best done during the "Gain EXP" [[RoE]] objectives if you don't have any from just playing. Gain EXP is the easiest to complete again and again.
+:*See the calendar on the [[RoE]] page to find out when that happens three times a week.
+
+:However, you have a few other options that will vary depending on your server. Crystals (x12) tend to sell for a bit of money on the Auction House (AH) if you are accumulating them from monsters and feel desperate. You should be saving these in your Case, Sack, or Satchel while in the field, and storing them when you get back to town in an [[Ephemeral Moogle]] as was mentioned.
+:There are a few things you can easily craft at low levels. Namely things like [[Copper Ingot]]s or [[Sheep Leather]]. Gobbie bag and armor forging materials are sometimes actually rather valuable and accessible for newer players. People are impatient and willing to drop over 100k on a [[Moblinweave]] and other easily made materials for years now.
+:Certain base materials like [[Gausebit Grass]] are easy to farm and sell fast at ~10-20k a pop on Asura. [[Tiger Hide]]s would be a good choice too depending on the crafting market, as things tend to change in time.
+
+:Of course anyone reading this will have already swamped the market on good items that I list and the price may have crashed so there isn't much use in me listing out ways to make money besides "sell extra sparks". So just remember to NPC all your old crap to try and pay the bills in the meantime.
+:*Utilize [https://www.ffxiah.com FFXIAH].
+
+'''Mog Garden''':
+:Upon reaching Rank 3 in any nation you may enter the [[Mog Garden]] either through either:
+:*Selecting the option while exiting the Mog House after completing the corresponding [[Mog House Exit]] quest.
+:*A Mog Dinghy located at [[Port San d'Oria]] (I-8) / [[Port Bastok]] (K-11) / [[Port Windurst]] (C-8).
+:Now, there is one slight issue you will have for a bit in the MG. You won't have the Adoulin Access nor the Bayld to rank up the areas in your Mog Garden initially. However, you may get them ready to upgrade in the future as Adoulin isn't really that far away.
+:At any rate, I believe the Mog Garden is an under appreciated asset. Not just because maxing out your rank gives you access to a +1 Adoulin Ring (mentioned later), but there is ''Gil in them there hills'' for struggling new players. Along your eventual quest to cap out the gardens you will find many NPCables which is self-explanatory.
+:Although, you have the inventory space, say in your Storage from some [[Furniture]], to begin hording various items such as {{ItemIcon|Aht Urhgan Brass|26}} [[Aht Urhgan Brass]], {{ItemIcon|Adaman Ore|26}} [[Adaman Ore]],  {{ItemIcon|Darksteel Ore|26}} [[Darksteel Ore]], {{ItemIcon|Durium Ore|26}} [[Durium Ore]], {{ItemIcon|Spider Web|26}} [[Spider Web]]s, {{ItemIcon|Phrygian Ore|26}} [[Phrygian Ore]], {{ItemIcon|Scorpion Shell|26}} [[Scorpion Shell]]s, {{ItemIcon|Dragon Talon|26}} [[Dragon Talon]]s, {{ItemIcon|Ebony Log|26}} [[Ebony Log]]s, {{ItemIcon|Black Sole|26}} [[Black Sole]]s, etc then they are all money makers on the AH to crafters. That isn't even counting the Garden Furrows where you may try to grow some [[Worm Mulch]] if you are adventurous for a couple hundred thousand gil. More straight forward would be eventually unlocking Kuyin as an assistant in the garden, setting her to collect seeds, and then planting Revival Tree Roots. They are ready to harvest in 1 Earth hour, sell well, and with Kuyin collecting seeds will net you an equal or greater number of roots. Which you then plant again and again for more roots.
+:Finally, once you have the extra Bayld to spend, you may purchase {{ItemIcon|Coalition Serum|26}} [[Coalition Serum]]s from [[Ceciliotte]] in [[Western Adoulin]] at (J-9) for about 10k Bayld. When traded to your Mineral Vein it will greatly increase your yield of Darksteel Ores. As you rank up higher you will begin getting tons of them. You may then turn around and dump these off via the quest [[The Darksmith]]. Every 2 ores is 8k gil with no restriction other than being able to flag the quest.
+
+==Levels 40-50==
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px"
+| style="vertical-align: top;"| '''Story Time''': Start Rank 4 Nation Missions
+|-
+| style="width: 33%;"|
+*[[File:Bastok-Flag.jpg|27px|link=]] '''[[Bastok Missions]]''' 4-1
+| style="width: 33%;"|
+*[[File:San d'Oria Flag.jpg|27px|link=]] '''[[San d'Oria Missions]]''' 4-1
+| style="width: 33%;"|
+*[[File:Windurst-Flag.jpg|27px|link=]] '''[[Windurst Missions]]''' 4-1
+|-
+|colspan="3"|
+:*This may be completed around level 45+ with [[Sneak]] and [[Invisible]].
+::*[[Spectral Jig]], [[Silent Oil]] and [[Prism Powder]], the ninjutusu [[Tonko: Ichi]] and [[Monomi: Ichi]], or spells [[Sneak]] and [[Invisible]] provide this.
+
+*[[File:Tavnazia-Flag.jpg|27px|link=]] '''[[Chains of Promathia Missions]]''' Chapter 2
+:*This may be completed around level 45+
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FFFBF3; border:2px solid #E2B553; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Goals''':
+*'''Obtain your [[Artifact Armor|Artifact]] Weapon''':
+:*At level 40+.
+*'''Level Up'''
+:*[[Fantastic EXP]] guide
+*'''Complete Missions'''
+:*Nation missions
+|}
+</div></div>
+
+'''Artifact Weapons''':
+:'''[[Artifact Weapons]]''' and armor (AF or AF1) are weapons crafted specifically for your job. These weapons are pretty mediocre, but they are a prerequisite for unlocking your [[Artifact Armor]]. Depending on what you are using they may be an upgrade. You may begin questing them at level 40+.
+
+==Levels 50-60==
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px"
+| style="vertical-align: top;"| '''Story Time''': Obtain rank 5
+|-
+| style="width: 33%;"|
+*[[File:Bastok-Flag.jpg|27px|link=]] '''[[Bastok Missions]]''' 5-1
+| style="width: 33%;"|
+*[[File:San d'Oria Flag.jpg|27px|link=]] '''[[San d'Oria Missions]]''' 5-1
+| style="width: 33%;"|
+*[[File:Windurst-Flag.jpg|27px|link=]] '''[[Windurst Missions]]''' 5-1
+|-
+|colspan="3"|
+:*This may be completed around level 50-55+.
+::*Sneak and Invis is recommended.
+
+*[[File:Rhapsodies_Icon.png|27px|link=]] '''[[Rhapsodies of Vanadiel Mission]]s''' 1-8 to 1-11
+:*This may be completed around level 55 and grants the [["Rhapsody in Umber"]] KI.
+*[[File:AhtUrghan Icon.png|27px|link=]] '''[[Aht Urhgan Missions]]''' 1 and 2
+:*This may be completed at any level with sneak and invisible.
+*[[File:Tavnazia-Flag.jpg|27px|link=]] '''[[Chains of Promathia Missions]]''' Cutscenes for 3-1 and 3-2
+::*This is the farthest you must progress in CoP missions for [[RoV]] mission prerequisites.
+'''Optional''':
+*[[File:Tavnazia-Flag.jpg|27px|link=]] '''[[Chains of Promathia Missions]]''' Chapter 3
+:*This may be completed around level 55+
+*[[File:Tavnazia-Flag.jpg|27px|link=]] '''[[Chains of Promathia Missions]]''' Chapter 4
+:*This may be completed around level 55-60
+*[[File:Tavnazia-Flag.jpg|27px|link=]] '''[[Chains of Promathia Missions]]''' 5-1 and 5-2
+:*This may be completed around level 55-60
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FFFBF3; border:2px solid #E2B553; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Goals''':
+*'''[[Limit Break]]s''':
+:*At level 50, 51+, and 56+.
+*'''Level Up'''
+:*[[Fantastic EXP]] guide
+*'''[[Artifact Armor]]''':
+:*At level 52, 54, 56, 58, and 60.
+*'''[[Aht Urhgan Whitegate]]''':
+:*Gain access via the quest [[The Road to Aht Urhgan]]
+*'''Complete Missions'''
+:*Nation, RoV, and CoP missions
+|}
+</div></div>
+
+<div style="padding-top: 5px;">[[File:limitbreak.png|350px|link=|right]]</div>
+'''Limit Breaks''':
+:Time for your first '''[[Limit Break]]s'''. Starting at 50 and beyond, there is one every 5 levels all the way to 99.
+:*[[In Defiant Challenge]] - Quest for breaking the limit of level 50.
+:*[[Atop the Highest Mountains]] - Quest for breaking the limit of level 55.
+:*[[Whence Blows the Wind]] - Quest for breaking the limit of level 60.
+::*You must be past Nation mission 4-1 for this limit break.
+:*You may start and complete each limit break for the next limit, one level after completing the previous break. E.g. Atop the Highest Mountains may be completed at level 51.
+
+'''Artifact Armor'''
+:Back to the '''[[Artifact Armor]]''' (AF). At least this stuff serves a long lasting purpose. You will upgrade it several times all the way to level 99. Now you can look the part too.
+:*Once you have obtained the [["Rhapsody in Umber"]] KI you may save tons of time by simply buying the coffer key for your AF from the [[Curio Moogle]].
+
+:So what I would recommend is doing your first limit break and level up. Then after that you can do your first AF quest for your level 52 piece. Then you can complete RoV up to 1-11 for the [["Rhapsody in Umber"]] key item and buy the coffer keys for your level 54, 56, and 58 pieces from the [[Curio Moogle]].
+:*You may obtain these 3 coffer pieces before you may actually wear them once the quest has been started.
+
+:'''Note''':[[GEO]] and [[RUN]] obtain their [[:Category:Artifact Armor#Geomancer|Artifact]], [[:Category:Relic Armor#Geomancer|Relic]], and [[:Category:Empyrean Armor#Geomancer|Empyrean]] armor differently via quests and commissions.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px; max-width:600px">'''Pro Tip''': You can check where your homepoint is in your menu under Status → Profile.</div></blockquote>
+
+'''Some Useful Key Items''':
+:You will need all of these at some point in the game. Some of them for your AF armor even:
+:*[[Pouch of weighted stones]] - Allows a player to pass through the banishing gates of [[Garlaige Citadel]] solo.
+::*Select the ??? in [[Garlaige Citadel]] on map 1 at (G-8) to obtain this.
+:*[[Magicked astrolabe]] - Allows a player to pass through the gates in [[Eldieme Necropolis]] solo.
+::*Pay [[Churano-Shurano]] in [[Windurst Waters]] (North) (F-8) 10,000 gil to obtain this.
+:*[[Loadstone]] - Allows non-galka players to pass through the weighted doors in [[Quicksand Caves]] solo. Thus eliminating the only reason to ever be a Galka.
+::*Complete the quest [[Open Sesame]] to obtain this.
+:*[[Portal charm]] - Aforementioned, allows players past the Three Mage gate in the [[Inner Horutoto Ruins]] solo. From Windurst Mission 3-2.
+::*Alternatively there is a survival guide in [[Toraimarai Canal]] right behind it you may obtain if someone lets you in once.
+::*Alternatively there is a [[Rhinostery certificate]] for entering [[Toraimarai Canal]] solo after a series of quests starting with [[Food for Thought]].
+
+'''Leveling''':
+:Around your mid 50s when you unlock [[Escha - Zi'Tah]] I would reccomend leveling in there from ~52-60 on Dhalmels and Coeurls (as per the EXP guide). Just so you can earn a preliminary amount of [[Silt]], a currency accumulated similar to [[Conquest Points]]s. You will need Silt for level 99+ so you can buy the key items required to fight eschan monsters for better armor. Otherwise, I enjoy leveling in [[Aht Urhgan]] areas personally.
+
+'''Welcome to Whitegate''':
+:If you haven't already unlocked access to [[Whitegate]] (once known simply as "WG") then now is the time. Complete the quest '''[[The Road to Aht Urhgan]]''' and either unity warp over to [[Wajaom Woodlands]] or ride the correct boat from [[Mhaura]] (the galka flips the sign where you pay to board to the snake).
+:*Completing the quest is required before you may use the unity warp to the woodlands, so there is no shortcut around this.
+:After completing [[ToAU Mission|Aht Urhgan (ToAU) Mission]]s 1 and 2 you will gain access to the [[Mog Locker]] and [[Sanction]].
+::*'''Alternatively''', if you are playing as a Warrior, Monk, White Mage, Black Mage, Red Mage, Thief, Paladin, Dark Knight, Beastmaster, Bard, Ranger, Summoner, Ninja, Dragoon, or Samurai you may put off completing [[The Road to Aht Urhgan]] until you are completing your level 70 → 75 limit break, [[Shattering Stars]]. The quest will require a job testimony which you retain after the fight and may trade under the ''advanced option'' to complete the quest with no additional time or effort.
+
+'''Optional Missions''':
+:Since RoV is the most important to any new player the guide is built focusing on progressing through it for the Key Item bonuses. As such all missions that are now required are listed as "optional".
+:*Progressing through these optional missions without finishing the story line will block progressing through RoV at certain times.
+::*[http://forum.square-enix.com/ffxi/threads/47983-What-should-I-do-if-I-can%E2%80%99t-progress-in-Rhapsodies-of-Vana%E2%80%99diel Here is a list of "optional" missions that affect progress].
+
+==Levels 60-70==
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px"
+| style="vertical-align: top;"| '''Story Time''': Obtain rank 6
+|-
+| style="width: 33%;"|
+*[[File:Bastok-Flag.jpg|27px|link=]] '''[[Bastok Missions]]''' 5-2
+| style="width: 33%;"|
+*[[File:San d'Oria Flag.jpg|27px|link=]] '''[[San d'Oria Missions]]''' 5-2
+| style="width: 33%;"|
+*[[File:Windurst-Flag.jpg|27px|link=]] '''[[Windurst Missions]]''' 5-2
+|-
+|colspan="3"|
+:*This may be completed around level 65+.
+::*This is the farthest you must progress in Nation missions for [[RoV]] mission prerequisites.
+:*Rank 6 unlocks access to [[Cipher: Ajido-Marujido]], [[Cipher: Trion]], and [[Cipher: Volker]].
+
+*[[File:AhtUrghan Icon.png|27px|link=]] '''[[Aht Urhgan Missions]]''' 3 through 12
+:*This may be completed around level 60+
+::*Watch out for [[Imp]]s as they see through invisible.
+::*This is the farthest you must progress in Aht Urhgan missions for [[RoV]] mission prerequisites.
+'''Optional''':
+*[[File:Tavnazia-Flag.jpg|27px|link=]] '''[[Chains of Promathia Missions]]''' 5 and 6
+:*This may be completed around level 65-70
+:*Completing 5-3, [[Three Paths]] will unlock access to [[Cipher: Shikaree Z]].
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FFFBF3; border:2px solid #E2B553; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Goals''':
+*'''[[Limit Break]]s''':
+:*At level 61+ and 66+.
+*'''Level Up'''
+:*[[Fantastic EXP]] guide
+*'''Complete Missions'''
+:*Nation, RoV, and ToAU missions
+*'''[[RoE]]'''
+:*Don't forget to keep doing different objectives for points.
+|}
+</div></div>
+
+'''Limit Breaks''':
+*[[Riding on the Clouds]] - Quest for breaking the limit of level 65.
+*[[Shattering Stars]] - Quest for breaking the limit of level 70.
+:*The level 70 limit break varies based upon your job, see the '''[[Limit Break]]''' page.
+::*Job testimonies are good for three tries now instead of just one like they used to be.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px;">'''Pro Tip''': Macro in equipment sets before weapon skilling, casting spells, using abilities, etc to improve performance. Menu → Macros → Edit Equip Set. is where you find these equipment sets.<br />
+'''Example''':
+:/equipset 2
+:/ja "Vorpal Blade" <t> <wait 1>
+:/equipset 1
+:*In this example equipset 1 is your TP set, and 2 is your WS set.</div></blockquote>
+
+==Levels 70-80==
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px"
+| style="vertical-align: top;"| '''Story Time''':
+|-
+|colspan="3"|
+*[[File:Rhapsodies_Icon.png|27px|link=]] '''[[Rhapsodies of Vanadiel Mission]]s''' 1-12 to 2-13
+:*This may be completed around level 75+ and grants the [["Rhapsody in Azure"]] and [["Rhapsody in Crimson"]] KI.
+::*The Siren fight is going to be tough for new players at this level. Depending on your job and gear, you may need to wait till 80+.
+*[[File:Tenshodo Flag.jpg|27px|link=]] '''[[Rise of the Zilart Missions]]''' 1 to 4
+:*This may be completed around level 75+.
+::*This is the farthest you must progress in Rise of the Zilart missions for [[RoV]] mission prerequisites.
+:::*Complete the cut scenes to reach mission 5.
+*[[File:Wingsofthegoddess_Icon.png|27px|link=]] '''[[Wings of the Goddess Missions]]''' 1 to 7
+:*This may be completed around level 70-75.
+::*This is the farthest you must progress in Wings of the Goddess missions for [[RoV]] mission prerequisites.
+:::*Complete the cut scenes to reach mission 8.
+'''Optional''':
+* Rank 10 Nation missions
+|-
+| style="width: 33%;"|
+*[[File:Bastok-Flag.jpg|27px|link=]] '''[[Bastok Missions]]''' 6 to 10
+| style="width: 33%;"|
+*[[File:San d'Oria Flag.jpg|27px|link=]] '''[[San d'Oria Missions]]''' 6 to 10
+| style="width: 33%;"|
+*[[File:Windurst-Flag.jpg|27px|link=]] '''[[Windurst Missions]]''' 6 to 10
+|-
+|colspan="3"|
+:*This may be completed around level 70-75
+*[[File:Tenshodo Flag.jpg|27px|link=]] '''[[Rise of the Zilart Missions]]''' Complete the story
+:*This may be completed around level 80.
+::*You may complete all missions, skip [[Divine Might]], and then come back later to do it at a higher level.
+*[[File:Tavnazia-Flag.jpg|27px|link=]] '''[[Chains of Promathia Missions]]''' Complete the story
+:*This may be completed around level 80.
+:*Unlocks [[Cipher: Cherukiki]], [[Cipher: Prishe]], and [[Cipher: Ulmia]].
+*[[File:AhtUrghan Icon.png|27px|link=]] '''[[Aht Urhgan Missions]]''' Complete the story.
+:*This may be completed around level 80.
+:*Unlocks [[Cipher: Gessho]] and [[Cipher: Nashmeira]].
+*[[File:Wingsofthegoddess_Icon.png|27px|link=]] '''[[Wings of the Goddess Missions]]''' 8 to 15
+:*This may be completed around level 80+.
+*[[File:CrystallineProphecy Icon.png|27px|link=]] '''[[A Crystalline Prophecy]]''' / [[File:Mooglekupodetat Icon.png|27px|link=]] '''[[A Moogle Kupo d'Etat]]''' / [[File:ShantottoAscension Icon.png|27px|link=]] '''[[A Shantotto Ascension]]''' Complete the mini stories
+:*These may be completed with ''two'' players and trusts around level 80+.
+::*They were challenging to a party of level 75s at the time. Depending on your gear, trusts, and job you may need to do this at a higher level. You likely may solo it with trusts and preparation at closer to 85-90.
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FFFBF3; border:2px solid #E2B553; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Goals''':
+*'''[[Limit Break]]s''':
+:*At level 71+ and 76+.
+*'''Level Up'''
+:*[[Fantastic EXP]] guide
+*'''Unlock [[Merit Points]]'''
+:*Nomad Moogle next to [[Maat]] at level 75.
+*'''Voidwatch'''
+:*Speak to a [[Voidwatch Officer]] (at level 75+) in order to begin accumulating [[Voidstone]]s.
+*'''Join a Nation'''
+:*To progress through [[Wings of the Goddess]] Missions.
+*'''Complete Missions'''
+:*RoV, RoZ, and WotG missions
+'''Optional''':
+*'''Add on Scenario Missions'''
+:*[[A Crystalline Prophecy]], [[A Moogle Kupo d'Etat]], [[A Shantotto Ascension]]
+|}
+</div></div>
+
+Moving on from 75 upwards will open up a lot of content for you. Historically level 75 was when players began endgame before the level cap was increased back in mid 2010 so there is a lot of group content focused around that level range. The only thing that is really relevant to you will be the story lines which should be manageable solo as early as at 80+ with trusts.<br />
+No one would blame you for wanting to take in some of the level 75 experience (okay, do at least one real [[Campaign Battle]]!) as it was a big part of this game at one time. Feel free to keep leveling though if you want to come back and tackle it more efficiently later though.
+
+{|colspan="3"
+|colspan="3"|'''Armor'''
+:Your armor is likely due for a refresh by this point as the RoE sparks NPC only starts selling weapons at this point. You may check the AH for some frankly overpriced items to help you out. Also, there are three '''[[Unity]]''' Notorious Monster (UNM) battles that are level 75 you can take on with your trusts for a few piece that may be relevant to you so check their pages:
+|-
+|
+*[[Bounding Belinda]]
+|
+*[[Hugemaw Harold]]
+|
+*[[Prickly Pitriv]]
+|-
+|colspan="3"|If you are a bit confused about the +1 versions for those UNMs. The level 75 normal quality (NQ) items may be traded to the Unity NPC that warps you to the zones along with '''3''' trophy items named after that NM which are obtained from their Coffers and 1,000 accolades. After a game day the NPC will return the +1 version for you. Higher level Unity pieces upgrade the same, but cost more.
+:*These trophy items are also used to upgrade the sets below to [[:Category:Unity_Armor#Level_98_and_Lower_Equipment|a +1 '''level 90 version''']], hang on to the extra {{ItemIcon|Belinda's Hide|26}} [[Bounding Belinda's Hide]]s, {{ItemIcon|Harold's Ore|26}} [[Harold's Ore]]s, and {{ItemIcon|Pitriv's Thread|26}} [[Prickly Pitriv's Thread]].
+
+The level 75 At level 78 there are the following sets of gear from [[Abyssea]] which are probably an upgrade to anything you have. They are purchasable by anyone with [[Cruor]] and also found on the Auction House:
+|-
+|
+
+{{Equipment Set
+|CaptionTop = Aurore Set
+|CaptionBottom =
+|Main =
+|Sub =
+|Range =
+|Ammo =
+|Head = Aurore Beret
+|Neck =
+|Ear1 =
+|Ear2 =
+|Body = Aurore Doublet
+|Hands = Aurore Gloves
+|Ring1 =
+|Ring2 =
+|Back =
+|Waist=
+|Legs = Aurore Brais
+|Feet = Aurore Gaiters
+|List =
+|Background =
+}}
+|
+{{Equipment Set
+|CaptionTop = Perle Set
+|CaptionBottom =
+|Main =
+|Sub =
+|Range =
+|Ammo =
+|Head = Perle Salade
+|Neck =
+|Ear1 =
+|Ear2 =
+|Body = Perle Hauberk
+|Hands = Perle Moufles
+|Ring1 =
+|Ring2 =
+|Back =
+|Waist=
+|Legs = Perle Brayettes
+|Feet = Perle Sollerets
+|List =
+|Background =
+}}
+|
+{{Equipment Set
+|CaptionTop = Teal Set
+|CaptionBottom = Set: Fast Cast +10%
+|Main =
+|Sub =
+|Range =
+|Ammo =
+|Head = Teal Chapeau
+|Neck =
+|Ear1 =
+|Ear2 =
+|Body = Teal Saio
+|Hands = Teal Cuffs
+|Ring1 =
+|Ring2 =
+|Back =
+|Waist=
+|Legs = Teal Slops
+|Feet = Teal Pigaches
+|List =
+|Background =
+}}
+|-
+|colspan="3"|
+:Do '''NOT''' exchange copper vouchers for Cruor. Sparks are a more valuable exchange for selling and buying this instead. Ask a friend to buy these for you as they likely have millions of cruor they can't even use.
+:*It is also worth trying this in one of the towns: /yell Hello, I am a new player and don't have any cruor, could someone purchase the <xyz> set for from Abyssea for me please?
+
+:*'''Note''':You will likely be wearing this gear and some of the [[:Category:Unity_Armor#Level_98_and_Lower_Equipment|level 90 +1 version of it]] until level 99 so get it.
+|}
+
+'''Limit Breaks''':
+*[[New Worlds Await]] - Quest for breaking the limit of level 75.
+*[[Expanding Horizons]] - Quest for breaking the limit of level 80.
+
+'''[[File:Merit Point-Icon.png|75px|link=Merit Points]]'''
+:Starting at level 75 you can begin obtaining merits. These will enhance your abilities beyond your current limits as well as gain your new bonuses and abilities.
+:*Speak to the [[Nomad Moogle]] next to [[Maat]] in [[Ru'Lude Gardens]] to unlock merits.
+::*You may only obtain EXP or Merit points at once. You may change the mode from EXP to Merit points in the Status → Merit Points menu.
+:::*If you are maxed out on EXP then you will automatically begin obtaining merits.
+
+:I wouldn't go too nuts with obtaining merit points at your level. You will need to obtain a couple of them later for Limit Breaks, but otherwise it makes more sense to put most pf this off for now until obtaining more EXP boosts from [[RoV KI]]s which also increase your merit point gains. Eventually gaining merit points becomes a joke because of this. It will be obtaining [[Job Points]] which takes you forever, but that is a later topic.
+
+'''Rise of the Zilart''':
+:Go through these missions and skip the [[Divine Might]] quest for now. That was designed for an alliance of 75 players, and you may complete the story and come back to do [[Divine Might]] later for the earring reward.
+
+[[File:wings of the goddess lilisette.png|link=|right]]
+'''Wings of the Goddess''':
+:Also known as "the past". '''[[Wings of the Goddess]]''' is an expansion that released the Shadowreign ([S]) areas. These are areas that exist in an era during the Crystal War between the four nations and the forces of the Shadow Lord, linked to present day by Cavernous Maws. It was released at level 75, but the story was not finished until about level 90. This means it scales up in difficulty, somewhat like CoP, but in a smaller scale.
+:There are some fun things you can do here like [[Campaign]] if you feel like it and the story is the longest in the game. Partly due to the quests for your chosen nation that are required for progress in [[Wings of the Goddess Missions]]. You also must choose the nation you wish to alliance to, it is independent of your present day nation, but that is covered on the [[Wings of the Goddess Missions]] page.
+:Overall, the most important thing for you to know now is that you must reach mission 8 [[In the Name of the Father]], in order to progress through RoV.
+
+'''Voidwatch''':
+:'''[[Voidwatch]]''' (VW) is a battle system with a mini story line that came out on the heels of [[Abyssea]]. You won't be completing this content anytime soon, but much like with [[Abyssea]] it uses a stone system per NM encounter. So at 75+ you may speak with a [[Voidwatch Officer]] near the Records of Eminence NPCs to obtain a colored abyssite and begin collecting [[Voidstone]]s for later.
+
+:You will need to do VW later in order to unlock some [[Weapon Skill]]s. There are also special events occasionally during adventurer campaigns from Square Enix where all of the spectral alignments will become maxed during the campaign. VW becomes a lucrative money maker during these times for people, so it is wise to begin collecting your stones now. You can even use two [[Voiddust]]s to jump start the process.
+
+'''Add-On Scenarios''':
+:'''[[A Crystalline Prophecy]]''',  '''[[A Moogle Kupo d'Etat]]''', and '''[[A Shantotto Ascension]]''' are three mini stories that were released at 75. The armor rewards quickly become irrelevant by level 99 though except for a macro piece for a couple of jobs like [[Beastmaster]] and [[Puppetmaster]] or /lockstyle. So if you did want to take this on, it is fun, but only when it is still a challenge. The final fights can probably be soloed around 85-90 with trusts or duoed with trusts around 80+.
+:This means you have to actually go in with a strategy! You will need sleepga for the [[Henchman Moogle]]s in the last fight of Kupo d'Etat, and so on. Overall, I felt I had to list these here due to the fact they quickly become irrelevant later.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px;">'''Pro Tip''': Use /lockstyle to lock on the appearance of your current equipment set. You may also /lockstyleset <number> a set from your Menu → Macros → Edit Equip Set.
+*You may do this even if the items are away in your mog house.</div></blockquote>
+
+==Levels 80-90==
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px"
+| style="vertical-align: top;"| '''Story Time''':
+|-
+|
+*[[File:Rhapsodies_Icon.png|27px|link=]] '''[[Rhapsodies of Vanadiel Mission]]s''' 2-14 to 2-33
+:*This may be completed as early as level 90+ and grants the [["Rhapsody in Emerald"]] KI.
+*[[File:Adoulin Flag.jpg|27px|link=]] '''[[Seekers of Adoulin Mission]]s''' 1-1 to 1-5
+:*This may be completed at any level pretty much.
+'''Optional''':
+*[[File:Tavnazia-Flag.jpg|27px|link=]] '''[[Chains of Promathia Missions]]''' Epilogue
+:*Quests include: [[Storms of Fate]], [[Shadows of the Departed]], and [[Apocalypse Nigh]].
+::*These epilogue quests may be completed around level 85+
+*[[File:Wingsofthegoddess_Icon.png|27px|link=]] '''[[Wings of the Goddess Missions]]''' 16 to 38
+:*This may be completed around level 90.
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FFFBF3; border:2px solid #E2B553; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Goals''':
+*'''[[Limit Break]]s''':
+:*At level 81+ and 86+.
+*'''Level Up'''
+:*[[Fantastic EXP]] guide
+*'''Reach [[Adoulin]]'''
+:*Complete [[Rumors from the West]].
+:*Begin collecting [[Imprimatur]]s
+*'''Complete Missions'''
+:*RoV, SoA.
+|}
+</div></div>
+
+<div style="padding-top: 5px;">[[Image:City of Adoulin.png|right|frameless|400px|link=]]</div>
+'''Limit Breaks''':
+*[[Beyond the Stars]] - Quest for breaking the limit of level 85.
+*[[Dormant Powers Dislodged]] - Quest for breaking the limit of level 90.
+
+'''Arriving in Adoulin''':
+:Welcome to the untamed wilderness of '''[[Adoulin]]''' and yet another expansion and story line. If you read ahead to this then you could have unlocked [[Adoulin]] at any time, whether it was for the [[Craft]]ing skill up rate bonus from '''[[Ionis]]''' or some other factor. However, around level 90+ Mandragora's are a popular way to level to 99. [[Ionis]] also grants a skill gain rate increase so your skills can catch up if you were rushing up in levels.
+:Until 90, the main purpose in Adoulin for you will be completing [[Seekers of Adoulin Mission]] 1-5 and then speaking to a Task Delegator in one of the coalitions to begin collecting '''[[Imprimatur]]s'''. These accumulate every 6 real hours and are spent on [[Coalition Assignments]]. Which provide you with EXP, [[Bayld]] (the currency of Adoulin), and are a requirement early on for progressing through the Seekers missions which in turn is required up to the [[Behind the Sluices]] mission for RoV.
+:This imprimatur gate for Adoulin missions is eased slightly by gaining fame in the city as well from completing [[Adoulin Quests]] later. Some of which provide some good rewards. All in all you can complete something basic like the [[Couriers' Coalition]] supply assignments at '''any''' level once you unlock a bivouac to warp to and deliver the supplies then warp back for the EXP, ''hint-hint''.
+:If you are at a personal point where you are stuck waiting for Imprimaturs then take advantage of the downtime to explore and unlock bivouacs. As well as gain some useful rewards from [[Adoulin Quests]]. There is also a reward for completing all of the quests, but more on that later.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px">'''Pro Tip''': Type /focustarget <playersname> to see the status effects active on a party member. Use the same name again to turn it off.
+:*Only one target may be selected at a time, and this overrides the ability to see status effects of any other target (you may change the target at will), but it works well for those already in combat.
+::*This may not be used on [[Trust]]s.</div></blockquote>
+
+==Levels 90-99==
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px"
+| style="vertical-align: top;"| '''Story Time''':
+|-
+|
+'''Optional''':
+*[[File:Tenshodo Flag.jpg|27px|link=]] '''[[Divine Might]]'''
+:*This may be completed around level 95+ solo with trusts, but you might as well wait for level 99.
+*[[File:Wingsofthegoddess_Icon.png|27px|link=]] '''[[Wings of the Goddess Missions]]''' Complete the story.
+:*This may be completed around level 95.
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FFFBF3; border:2px solid #E2B553; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Goals''':
+*'''[[Limit Break]]s''':
+:*At level 91+.
+*'''Level Up'''
+:*[[Fantastic EXP]] guide
+*'''Unlock [[Job Points]]'''
+:*See [[Maat]]'s Nomad Moogle again.
+'''Optional''':
+*'''Upgrade your Aurore, Perle, or Teal to +1
+:*Most people probably will and should skip this.
+|}
+</div></div>
+
+'''Limit Breaks''':
+*[[Beyond Infinity]] - Quest for breaking the limit of level 95.
+:*Pick up an [[File:Olde Rarab Tail icon.png|27px|link=]] [[Olde Rarab Tail]] or two in the sidequest for this fight. It makes the fight trivial if you are having trouble.
+::*The items for this are reguarly available through [[Repeat Login Campaign]]s under 10 points.
+::*Congragulations on completing your limit breaks.
+[[Image:Update06-21-2010 10.jpg|right|frameless|425px|link=]]
+'''Armor''':
+:By most accounts you are still rightfully using your level 78 Abyssea armor since most armor in the 76-90 range are all from NMs in [[Abyssea]].
+:You have neither the stones (''oho~!'') nor the proper assistance for going after that stuff just yet. This is also partly due to the [[:Category:Abyssea#Notorious_Monsters|Weakness Targeting system]] AKA "Proc"ing that was invented with [[Abyssea]].
+:*More on procing in the next section.
+
+:So this leaves you with two choices:
+*Get your last 9 levels and replacing everything instantly.
+:*The most efficient route.
+*Upgrade your 78 abyssea armor to the [[:Category:Unity_Armor#Level_98_and_Lower_Equipment|+1 '''level 90 version''']].
+:*Not a bad choice if you can avoid the main issue with this.
+
+:The main issue with upgrading to the level 90 pieces, assuming you have the few (easy) items already is the game day wait. When trading unity items to upgrade you lose that piece of armor to the NPC until the next game day.
+:So there are three ways around this:
+#Have a spare piece available. You can't hold more than one {{Icon|Rare}} rare item at a time, but you can send it to yourself in the delivery box and get another or get one another after trading it.
+#Trade the item to upgrade right before the day changes. As soon as it changes you can take your item back.
+#Trade the item before going AFK and come back to get it.
+:*Otherwise, don't bother upgrading the level 78 armor.
+
+'''[[File:Job Point-Icon.png|75px|link=Job Points]]'''
+:Starting at level 99 you may unlock access to [[Job Points]]. Think of them as hardcore [[Merit Points]]. They are essentially earned the same way except slower, with a higher requirement per point. Once again these offer significant bonuses to your job and eventually will grant you three stars over your head signifying that you have ''Mastered'' that job.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px; max-width:600px">'''Pro Tip''': Type /jobmasterdisp off/on to hide/show the stars over your head from master status.
+
+:*/displayhead off also removes the visibility of your headgear while you wear it.</div></blockquote>
+
+==Levels 99-119==
+===Step 1===
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FEFEFF; border:2px solid #7F83D2; line-height:10x; padding:2px;" colspan="2"
+| style="vertical-align: top; width: 50%;"| '''<u>Primary Goals</u>''':
+*'''Begin [[:Category:Records_of_Eminence#Intermediate|RoE Intermediate Objectives]]''':
+:*To "Always Stand on 117".
+::*Use [[Fresh 99/RoE Intermediate Quest/119 Gear Guide|this guide]].
+*'''[[Relic Armor]]''':
+:*Via [[Dynamis]].
+*'''[[Empyrean Armor]]''':
+:*Via [[Abyssea]].
+:*Bring at least a [[Black Mage]] to [[File:Grellow.png|16px|link=]] [[:Category:Abyssea#Notorious_Monsters|yellow proc]].
+*'''Obtain Merit Points''':
+:*Start maxing out merit categories.
+| style="vertical-align: top; width: 50%;"| '''<u>Secondary Goals</u>''':
+*'''Unlock your Quested [[Weapon Skill]]'''
+:*See [[WSNM]].
+*'''Unlock your [[Empyrean Weapon Skill]].
+:*See [[Kupofried's Weapon Skill Moogle Magic]].
+*'''Unlock your Mythic [[Weapon Skill]].
+:*See [[Zalsuhm]].
+*'''[[Coalition Assignments]] and/or [[Adoulin Quests]]
+:*Complete random assignments of your choosing.
+*'''Explore Adoulin'''
+:*Collect waypoints, [[Survival Skills]], and [[Home Point]]s.
+'''<u>Optional</u>''':
+*'''[[Walk of Echoes]]'''
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Story Time''':
+*[[File:Rhapsodies_Icon.png|27px|link=]] '''[[Rhapsodies of Vanadiel Mission]]s''' Complete chapter 2.
+:*Obtain [["Rhapsody in Mauve"]] KI.
+*[[File:Voidwatch Quests.png|27px|link=]] '''[[Voidwatch Quests]]''' Complete [[Guardian of the Void]]
+:*This is a prerequisite to unlocking [[Empyrean Weapon Skill]]s
+'''Optional''':
+*[[File:Abyssea Icon.png|27px|link=]] '''[[Abyssea Storyline Quests]]''' Complete the mini story.
+*[[File:Voidwatch Quests.png|27px|link=]] '''[[Voidwatch Quests]]''' Complete the mini story.
+|}
+</div></div>
+
+'''Intermediate RoE''':
+:This is your first stop after reaching 99. Follow the [[Fresh 99/RoE Intermediate Quest/119 Gear Guide|'''RoE Intermediate Guide''']] half way to '''Always Stand on 117''' which is easy to solo. However, the next step of ''Taming the Wilds'' is not, and comes in step 2. This will leave you with a new weapon and full [[Sparks]] [[ilvl]] 117 armor.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px;max-width:450px">'''Pro Tip''': The level of your [[Trust]]s is based off of your current [[ilvl]].</div></blockquote>
+[[File:Dynamis 1.png|right|frameless|350px|link=]]
+
+'''RoV and VW'''
+:Next, complete RoV chapter 2. Afterwards you will obtain a [["Rhapsody in Mauve"]] which allows you to purchase [[Phase Displacer]]s for a mere 1,000 gil per pop from [[Ardrick]] at the Outpost in [[Jugner Forest]]. Displacers are traded to a Voidwatch NM conflux before spawning it to significantly weaken it.
+:So, take some displacers with you and go easily complete the quest [[Guardian of the Void]] with your trusts. This will reward you with some Cruor for [[Abyssea]] as well as enable you to unlock [[Empyrean Weapon Skills]] for your jobs, which is the real goal.
+:You may go about completing the mini story for [[Voidwatch]], but you should probably just save your stones for one of the Voidwatch [[Adventurer Campaigns]]. This is generally when everyone, and their bots do it. Unfortunately, that is a fact of life, but it is a good chance to gather lots of raw materials and Ultimate Weapon upgrade items to make some gil. If you are manage to walk up to or shout for a group to do [[Aello]], [[Uptala]], [[Qilin]], [[Morta]], or [[Bismarck]] then you are set even as a brand new player. Just make sure you empty the box at the end of each fight, less you earn the ire of others.
+
+'''Relic and Empyrean Armor''':
+:Obtain '''[[Relic Armor]]''' and '''[[Empyrean Armor]]''' so that you may later reforge these lower level pieces into their [[Reforged Armor|ilvl 119 versions]].
+
+:'''[[Dynamis]]''' is a simple event in which you enter with an hour, gain another hour by defeating five statues for time extensions and then proc enemies based on some simple factors for currency to build [[Relic Weapons]]. You do not need to proc mobs for the armor, and with the [[Treasure Hunter]] trait it drops pretty easily. Also, you should not be building a [[Relic Weapon]] until later.
+:*[[DNC]] [[Trust]]s that use steps are useful for procing JA weakness to increase coin output if you are trying to sell the currency.
+
+:'''Note''':[[GEO]] and [[RUN]] obtain their [[:Category:Artifact Armor#Geomancer|Artifact]], [[:Category:Relic Armor#Geomancer|Relic]], and [[:Category:Empyrean Armor#Geomancer|Empyrean]] armor differently via quests and commissions.
+
+:'''[[Abyssea]]''' is a bit less simple as the procing takes is a little more complex and you have a limit to how long you may be in the zone based on a timer. While you can just go to town right away in Dynamis, you should make a detour before you start farming [[Empyrean Armor]].
+
+:You may reduce the recast time on your [[Traverser stone]]s via three key items; each taking off four hours per key item:
+:*[[Ivory abyssite of celerity]] - Defeat tonberries in [[Abyssea - Konschtat]] and it will pop in your chat log.
+:*<strike>[[Crimson abyssite of celerity]]</strike> - Quest - [[Whither the Whisker]]. You need fame 3 (via quests in [[Abyssea - Vunkerl]] only) in the zone to unlock this quest which defeats the point in the short run.
+:*[[Ivory abyssite of celerity]] - Purchased for 4,500 cruor from a Cruor Prospector in either Abyssea Altpea, Grauberg, or Uleguerand.
+::*You should already have this cruor handy from doing [[Guardian of the Void]].
+
+:Now, when it comes to obtaining the papers for your job's [[Empyrean Armor]] you should really bring at least a BLM to {{yellow!}} proc. [[BLM]] has the most spells that trigger yellow out of any of the jobs. Around Thundersday, Lightsday, and Darksday, a WHM may also be useful for their procs. You may also deaggro the NM via a conflux  warp and reclaim it to change the weakness.
+:You may obtain no more than 1~2 seal without staggering the yellow weakness. With a yellow proc this changes to 2~5 ([[TH]] also helps). Each NM drops four different seals and you need 8 for your piece. Even while proced the monster might just drop four seals for a different job. So make the most of your time and stones, and other people need it to so /yell to team up.
+:*During special campaigns, sometimes including [[Login Campaign]]s, [[Kupon I-Seal]]s are available. Which may be traded to a [[Dealer Moogle]] for any +1 [[Empyrean Armor]] piece and simplifies the whole task.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px;">'''Pro Tip''':During random adventurer campaigns from SquareEnix, sometimes Abyssea is included. During these campaigns a box full of bonuses will be stationed next to [[Joachim]] in [[Port Jeuno]]. Select it to gain a one time bonus of abyssea items including a [[Lunar abyssite]] and 100,000 cruor.</div></blockquote>
+
+'''Weapon Skills!''':
+:This will vary depending on your job. Not all [[Weapon Skill]]s you can unlock are good or even useful. This will take researching your job to find out something like [[Savage Blade]] and [[Resolution]] are great while a WS like [[Exenterator]] is not.
+:*[[WSNM|Quested WSs]]
+:*[[Unlocking a Myth|Mythic WSs]]
+:*[[Empyrean Weapon Skills|Empyrean WSs]]
+:*[[Merit Weapon Skills|Merited WSs]]
+
+===Step 2===
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FEFEFF; border:2px solid #7F83D2; line-height:10x; padding:2px;" colspan="2"
+| style="vertical-align: top; width: 50%;"| '''<u>Primary Goals</u>''':
+*'''Finish [[:Category:Records_of_Eminence#Intermediate|RoE Intermediate Objectives]]''':
+:*Use [[Fresh 99/RoE Intermediate Quest/119 Gear Guide|this guide]].
+*'''[[Reives]]'''
+:*[[JSE Capes]]
+:*[[Prah Janimhar|Wildskeeper Reive Equipment]]
+:*119 Bayld Equipment from [[Vesca]]
+:*119 Bayld Weapons from [[Craggy Bluff]]
+*'''[[Alluvion Skirmish]]'''
+:*Stopgap armor and weapons
+::*Don't waste tons of gil on augments.
+*'''[[Macrocosmic Orb]] Battlefields''' (SKCNMs)
+:*[[Reforged Armor]] 109
+*'''[[Unity]] NMs'''
+:*Levels 99-128
+| style="vertical-align: top; width: 50%;"| '''<u>Secondary Goals</u>''':
+*'''[[Delve]]'''
+:*Stopgap armor and weapons
+*'''[[Incursion]]'''
+:*[[Mecistopins Mantle]]
+'''<u>Optional</u>''':
+*'''[[Skirmish]]'''
+:*Just do this for the RoE Intermediate objectives.
+*'''[[Walk of Echoes]]'''
+:*Surged walks [[Walk of Echoes Battlefield Rewards|rewards]]
+*'''[[Oboro|JSE Weapons]]'''
+:*May be better than what you are using.
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Story Time''':
+*[[File:Rhapsodies_Icon.png|27px|link=]] '''[[Rhapsodies of Vanadiel Mission]]s''' Complete the story.
+*[[File:Adoulin Flag.jpg|27px|link=]] '''[[Seekers of Adoulin Mission]]s''' Complete the story.
+:*You must complete up to mission 2-7-1 [[Behind the Sluices]] in order to progress through the last of RoV.
+:*For the most part this may be done solo with 119 gear.
+::*There will be a few missions later on that you likely need assistance with.
+|}
+</div></div>
+ 
+'''Intermediate RoE''':
+:Continue on with and finish these with the [[RoE Guide]]. [[Wildskeeper Reives]] (WKR) will probably be your largest obstacle. Go check if the NM is up (select the area you enter and view progress) then go back to town and do a few /yells and people may show up. Otherwise, during WKR [[Adventurer Campaigns]] people will spam the fights for {{Item [[HP Bayld]].
+[[File:WKR.png|right|frameless|350px|link=]]
+
+'''Wildskeeper Reives''':
+:'''[[Wildskeeper Reives]]''' are accessed after [[Seekers of Adoulin Mission]] 1-6 [[Life on the Frontier]]. You will need to do [[Coalition Assignments]] and [[Reives]] to build up bayld in order to start doing these.
+:*Old Adoulin bayld gear or WKR armor/weapons may be traded to [[Runje Desaali]] for free bayld.
+:*Make sure you flag the Content → WKR RoE objectives.
+:WKRs also drop good starting armor which is augmentable via '''[[Prah Janimhar]]''' in Western Adoulin at the Inventor's Coalition. Don't be fooled by the fact the item level is 115 (give Runje the ilvl 106 junk) and lower than the ilvl 117 and 119 gear you may obtain right now. The stats are what counts, and something like the ilvl 115 [[Otomi Helm]] or [[Ejekamal Boots]] after augments from Prah are easily better than the sparks 117 or bayld 119 pieces. Mix and match the best pieces along the way up, comparing stats should be easy on these pieces.
+
+:Also, as long as you have accuracy, the WKR 115 weapons with an augment of occasionally attacks twice (OAT) are some of the best stopgap weapons you can use atm for melees. This is especially true for offhand weapons for 1H jobs, for instance the [[Atoyac]] dagger with OAT for a Thief or Dancer.
+:*When you are in need of accuracy these weapons ''quickly'' drop off in performance, and good 119 gear replaces them later regardless.
+
+'''JSE Capes'''
+:'''[[JSE Capes]]''' are best obtained from WKRs, but may also be obtained from [[Reives]] in [[ Marjami Ravine]], [[Yorcia Weald]], [[Kamihr Drifts]], and Ra'Kaznar at a lower frequency. They also drop from [[Incursion]] coffers except those already will have augments on them.
+:Capes may be augmented via trading [[Detrovio]] a [[Refractive Crystal]] (from the AH or [[Unity]] NM coffers) along with your cape.
+:Lastly, [[Makel-Pakel]] in the [[Celennia Memorial Library]] will exchange three unagumented capes for one of your choice. You may also have him remove the augments from a cape.
+:*See [[Celennia Memorial Library card]].
+
+'''Bayld Sets'''
+:After a few [[Reives]] you will easily have enough bayld to start picking up some quick ilvl 119 weapons from '''[[Craggy Bluff]]''' and armor from '''[[Vesca]]''' in [[Eastern Adoulin]] at the Peacekeeper's Coalition. These will work fine for now, but are about some of the lowest quality 119 items there are.
+{|colspan="3" align="top"
+|-
+|
+{{Equipment Set
+|CaptionTop = Shneddick Set
+|CaptionBottom =
+|Main =
+|Sub =
+|Range =
+|Ammo =
+|Head = Shned. Chapeau +1
+|Neck =
+|Ear1 =
+|Ear2 =
+|Body = Shned. Tabard +1
+|Hands = Shned. Gloves +1
+|Ring1 =
+|Ring2 =
+|Back =
+|Waist=
+|Legs = Shned. Tights +1
+|Feet = Shned. Boots +1
+|List =
+|Background =
+}}
+|
+{{Equipment Set
+|CaptionTop = Gorney Set
+|CaptionBottom =
+|Main =
+|Sub =
+|Range =
+|Ammo =
+|Head = Gorney Morion +1
+|Neck =
+|Ear1 =
+|Ear2 =
+|Body = Gorney Haubert +1
+|Hands = Gorney Moufles +1
+|Ring1 =
+|Ring2 =
+|Back =
+|Waist=
+|Legs = Gor. Brayettes +1
+|Feet = Gor. Sollerets +1
+|List =
+|Background =
+}}
+|
+{{Equipment Set
+|CaptionTop = Weatherspoon Set
+|CaptionBottom =
+|Main =
+|Sub =
+|Range =
+|Ammo =
+|Head = Weath. Corona +1
+|Neck =
+|Ear1 =
+|Ear2 =
+|Body = Weather. Robe +1
+|Hands = Weath. Cuffs +1
+|Ring1 =
+|Ring2 =
+|Back =
+|Waist=
+|Legs = Weath. Pants +1
+|Feet = Weath. Souliers +1
+|List =
+|Background =
+}}
+|-
+|colspan="3"|
+:Keep in mind that some of these ilvl pieces may have no real relevant stats to your job. A piece like the [[Thurandaut Chapeau +1]] may be 109, but comes with accuracy (to make up for the DEX loss) and 5% dual wield on it. Assuming you can cap your gear haste at 25% (26% due to rounding) then it is easily a better piece for you. While we are on the subject of '''[[Dual Wield]]''', it serves to understand it really quickly.
+
+:*There is an 80% delay reduction cap, and understanding how to hit that is pretty important, see '''[[Attack Speed]]'''.
+
+:As for [[Dual Wield]] though it is pretty simple. You want to meet the 80% delay cap, but not go over it as dual wield reduces your TP gain while decreasing delay, but will still continue to reduce your TP gain per hit despite being capped delay if you have too much of it. No one wants to math just to play the game though, yes I know.
+:Luckily there is a '''[[Dual Wield Cheat Sheet]]''' on the wiki and that is all you really need most of the time. Match your tier DW trait up with how much haste you are receiving, and bam there is your instant answer to how much DW you need.
+|-
+|}
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px;">'''Pro Tip''': Always pay attention to [[Accuracy]] vs '''[[DEX]]'''. Accuracy provided from DEX is simply DEX * 0.75. So if a piece has 10 DEX over another then that is 7 to 8 accuracy depending on your total DEX before you put it on.
+* This is also how ranged accuracy from [[AGI]] or attack from [[STR]] is calculated.</div></blockquote>
+
+'''Alluvion Skirmish'''
+:You will come across [[Skirmish]] and '''[[Alluvion Skirmish]]''' as a result of your progression and the [[RoE Guide]]. As a result this will serve as the immediate boost to your gear after the last step. Use some of the stones available to you from the event or maybe even do a couple of rounds. Remember /yelling for things is your friend and how you actually make them to get things done.
+:*Stones are overpriced due to a lack of supply so do not go nuts trying to get augments for what is probably better than anything you currently have on. You will replace this gear soon enough with [[Escha Rewards]].
+::*See [[Alluvion Skirmish Weapons]] and [[Alluvion Skirmish Armor]] for augment details.
+
+'''SKCNMs'''
+:Or '''[[Macrocosmic Orb]]''' battlefields are what you should be teaming up to farm after you finish your ''Intermediate RoE objectives''. These will grant you '''[[Rem's Tale]]s''' 1-5 (ilvl 109) for [[Reforged Artifact Armor]], and  are easier than other battlefields which grant chapters 6-10 (ilvl 119).
+:Tackle these on Normal with a couple of people and your trusts. This provides a good effort to reward ratio for newer players.
+:If you are solo instead then you will have to spend more seals for less reward. Others using an orbs in the group will grant you a personal pool of free chapters based on the difficulty selected so find someone else to duo with at least.
+:*Completing one of these on "Difficult" will unlock access to [[Oboro|JSE Weapons]].
+
+'''Unity'''
+:Meanwhile, there is '''[[Unity]]''', which you should start breaking into. [[Ironhorn Baldurno]] drops a [[Bleating Mantle]] for DDs still working on their ambuscade cape. So depending on your equipment there is a lot of stuff here you can pick up.
+:*See [[Unity Rewards]]'''.
+:Alternatively there are a few uses for the trophy rewards from these coffers. They are not simply just for upgrading that UNMs rewards, but are also used in popping common NMs in [[Escha]] or reforging AF +3. This means if you have spare accolades, you and your trusts can go about making some decent gil AHing the trophy items. Not to mention the sparks from defeating UNNs.
+
+'''Delve'''
+:'''[[Delve]]''' will provide you temporarily with some armor and weapons for your jobs. However, given the other options mentioned before this you will likely pass most of it on the way up. Given that it takes three people to enter [[Delve]] you will have a slight barrier to entry. Trusts can be called in here though after entering. You may even take in mules and disband to call 5 trusts.
+:Important materials for popping some [[Escha]] NMs, to crafting, and more over upgrading some of your [[Reforged Armor]] come from Delve.
+:*Completing any Delve also unlocks access to [[Oboro|JSE Weapons]] if you want to go this route.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px;max-width:788px">'''Pro Tip''': [[A.M.A.N. Reclaimer]] NPCs will accept most ilvl gear you don't want and trade you back points for [[Copper Voucher]]s.</div></blockquote>
+
+'''Incursion'''
+:Last and somewhat least here is '''[[Incursion]]'''. Also known as "WHERE ARE WE RUNNING TO?!" and it "F*CKING TOOK MY WEAPONS OFF AGAIN!!".
+:Incursion has some useful pieces from it still, even at 99. You also may farm augmented and improved [[JSE Capes]] from it, and the Grand Coffers are used for popping [[Reisenjima]] Tier 2 NMs for good weapons.
+:Most important though is that you obtain [[Mecistopins Mantle]]s from the coffers in this event. These are randomly augmented back pieces with one purpose, and that is to increase your [[Capacity Points]] by up to 50% depending on which augment you get. This is the back piece which you will wear during "CP PTs" aka "Capacity Point Parties" where people earn [[Job Points]] together.
+
+'''Walk of Echoes (Surged Walks)'''
+:Yeah, almost forgot old WoEs. An event that used to be popular at 75+, was decently fun, then died, and then was made an endgame level 99 event via "Surged" WoE Battlefields. Which made it popular again, and then ilvl came out, ann~nnd it is dead.
+:A couple of the '''[[Walk of Echoes Battlefield Rewards]]''' accessories are still the best for certain jobs such as the [[Windbuffet Belt +1]] or [[Flume Belt +1]]. However, no one does WoEs until an event that keeps the battlefields in constant Surge is active. Which then drives down the price of currency for [[Walk of Echoes Weapons]], used to unlock [[Empyrean Weapon Skills]] to dirt cheap levels. So basically you get to skip the whole event! Surely you will check it out some time. Just imagine how it was fun it must have been for a zone of strangers to go mostly pet jobs and die a lot for nearly 45 minutes. Only to get a mahogany log (what is this, Voidwatch?!).
+
+===Step 3===
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FEFEFF; border:2px solid #7F83D2; line-height:10x; padding:2px;" colspan="2"
+| style="vertical-align: top; width: 50%;"| '''<u>Primary Goals</u>''':
+*'''[[:Category:High-Tier Mission Battlefields|High-Tier Mission Battlefields]]'''
+:*[[Reforged Armor]] 119
+*'''[[Sinister Reign]]'''
+*'''[[Vagary]]'''
+*'''[[Ambuscade]]''':
+:*[[Ambuscade Rewards]].
+*'''[[Unity]]'''
+:*Level 135
+| style="vertical-align: top; width: 50%;"| '''<u>Secondary Goals</u>''':
+*'''Earn [[Job Points]]''' &bull; [[Apex]] PTs
+:*[[Fantastic EXP]]
+*'''[[Escha]]'''
+:*[[Escha Rewards|Armor and Weapons]]
+*'''[[Omen]]'''
+:*[[Omen Rewards|Armor and AF 119 +2/3 card]] upgrades
+*'''[[Dynamis - Divergence]]
+:*[[Reforged Relic Armor +2]] and [[Reforged Relic Armor +3|+3]]
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Story Time''':
+'''Optional''':
+*[[File:Adoulin Flag.jpg|27px|link=]] '''[[The Arciela Directive]]''' and '''[[Ygnas Directive]]'''.
+:*This increases your [[Adoulin Missions]] Ring to a +1 version.
+::*This involves a lot of work and will take months. Aside from the [[Mog Garden]] part it is fun.
+:::*This requires maxing every [[Mog Garden]] category, doing all [[Adoulin Quests]], and [[Coalition Assignments]].
+|}
+</div></div>
+
+'''The Arciela Directive'''
+:The [[Mog Garden]] part was not thrilling, but it wasn't hard and just took time. Spam [[Revival Tree Root]]s and your [[Garden Furrows]] will level faster than the other areas.
+:There are several [[Adoulin Quests]] that you will want to do for the rewards anyway, and I enjoyed the stories personally. If for nothing else you get the Ygnas [[Trust]] which is the healer I use since I chose Syvlie (GEO) as my Unity Trust and not Yoran or Apururu.
+
+'''High-Tier Battlefields''':
+:'''[[High-Tier Mission Battlefields]]''' are all the fights you know and love, but repurposed. These fights grant some useful armor and the [[Rem's Tale]]s #6-10 for [[Reforged Armor]]. With TH on "Normal" difficulty, the drop rate for armor from the fights is mediocre, and poor without it. On "Difficult" and beyond a piece of gear will always drop, even without TH. So once again, team up with your trusts here. You don't need a full party for "Difficult", but a trio should work fine with trusts.
+
+'''Sinister Reign''':
+:'''[[Sinister Reign]]''' is something you can enjoy on a weekend while you get high or something. It is another random augment system that provides some good pieces of gear as well as some trusts, most notably [[Cipher: August]] as he is one of the best tank [[Trust]]s.
+:If anyone is asking in /yells for this and asking for an [[Ultimate Weapon]] DD, A.K.K REAM DD then please send them something mildly insulting and say that it came from me. This event is old news, and came out when the best weapons and armor were from [[Alluvion Skirmish]], and [[Mighty Guard]] didn't even exist yet. Players have far better gear now, and those REAM DDs don't need this content. So don't be discouraged by "that guy".
+
+'''Vagary''':
+:'''[[Vagary]]''' is an event players seem to have a harder time with. It also favors mage setups over DDs most of the time. This event unlocks players ability to make 119 Empyrean Armor which is the only set of the three that requires the 119 being unlocked before reforging. Otherwise a couple of useful items come from [[Vagary]], but overall the boss materials for reforging or crafting are the most important.
+:*Remember to set your Vagary RoE objectives when you do it for a free one time material.
+
+'''Ambuscade''':
+:'''[[Ambuscade]]''' is likely where you will start really upgrading your equipment. By the end of Step 2 you are just some DD in [[Alluvion Skirmish Armor]] and misc items. So now it is time to work towards NQ (normal quality), +1, and +2 [[Ambuscade Rewards|Ambuscade Armor]].
+:Make or join Volume 1 E (easy) shouts and you can reach NQ gear pretty quickly with +1 soon to follow. After that N should be getting within in reach for even more points. Once again if people are asking for "Master" or REAM jobs for Volume 1 on ''EASY'', then please give them the old Sinister Reign greetings on my behalf. Don't worry about being new or crappy for Easy, it isn't "Normal" or beyond so you should expect other people on Easy to be just like you.
+
+:Points are lost after each version update (not from random maintenance) and the fight changes monthly. So sometimes GEO, RDM, BRD, etc may be in huge demand, and other months it may be made useless by that month's fight mechanics.Don't be upset if your job is super popular one month, and unwanted the next. Eventually, you will have multiple jobs and that won't be an issue.
+:Ambuscade takes a little bit of research each month for people as the fights are never really basic and tend to have some rather significant mechanics/gimmicks (maybe endeath, or a massive regen, etc) that need to be understood. Some players quickly set their minds to it and publish that info. Typically the information for Volume 1 is updated well on the wiki too as well as some strategies. So it is understandable if you feel a bit intimidated about shouting for a fresh month of Ambuscade, but after doing a couple you shouldn't have an issue taking what you learned and making a group.
+
+:Finally, while you ''can'' upgrade NQ armor to +1, this is a big waste. You may only upgrade two pieces of equipment to +2 a month, and it costs half of the materials to make a +1 as it does a +2. Which means you essentially can make 0-1 +2s an entire month if you upgrade an NQ piece to +1. Conversely +1 pieces are regularly available from grinding out some extra Gallantry. This isn't a bad thing as Ambuscade is flush with items to spend extra Hallmarks on and sell on the AH. Ambuscade is a real money maker if you spam it well.
+[[File:Spicy Escha.jpg|right|frameless|390px|link=]]
+'''Escha''':
+:'''[[Escha]]''' was listed as a secondary Objective for the same reason [[Omen]] was. The primary objective content is clearly in a different (easier) league than the other events.
+:Many players with help from senior players can skip right to [[Escha]] or even team up with farily newer players and take on Tier 1 Escha NMs. Thus skipping past a good deal of things, but others need more progression so that is how this was designed.
+
+:Since you already have some acquaintance with [[Escha]] from RoV and possibly leveling here there is less mystery to this event. As for the NMs, you just look at the [[Escha]] page and trade the pop item listed to the NPC at the start. Grab a [[Tribulens]] (good for one NM) or [[Radialens]], go beat up the NM, and repeat. As a new player you will need to team up with other players to get your foot in the door and pick up better gear here.
+:*Beware of dead weight as increasing the number of people in the party past 3 increases the HP of the foe.
+:Generally you don't want to start taking a second and incomplete party to NMs you may be struggling with if they don't offer a real benefit. Such an example of benefit would be sticking the tank and WHM in the outside party to get more DDs into the main party for buffs.
+
+'''Omen''':
+:'''[[Omen]]''' is a bit of a dream come true for solo-minded players. While you can't solo your way to the bosses or something of the sort, there is another option. Players may either join an alliance or just solo it themselves, and enter into a "card farm". Which is basically Omen with the NMs taken out and just ordinary monsters with objectives left. Completing more objectives results in obtaining more cards. These cards are used for creating [[Reforged Artifact Armor +2]] and +3. Meaning players can solo their 119 +2 AF if they really want to.
+:*Increasing the number of participants does not increase the HP of the opponents in Omen like it does in [[Delve]] or [[Escha]].
+
+:So the great news is that farming cards is the biggest bulk of making a +3, and AF 119 +2 requires no boss materials. However, +3s require a boss drop in order to forge. The good news is that the item is a 100% drop and people already want these NMs for armor and crafting materials. So changes are good that no one else in your group really wants a scale. Even then, you can farm up all the cards on your own in your spare time, +2 your AF armor, and be ready for +3ing all by yourself if you choose to.
+
+:Otherwise Omen boss runs and their [[Omen Rewards|rewards]] are for Eschan tier geared players. The bosses drop some of the best armor/accessories as well as materials for crafting.
+:*Remember to set your Omen Boss RoE objectives when you do it for a free one time scale.
+
+<blockquote><div style="background:#E9FCFB; border:2px dashed #3EA59D; line-height:10x; padding:2px">'''Pro Tip''': Research your job, the game, and improve your equipment. Don't be afraid to ask real questions. We have a collection all notable job guides from around the web on our [[Job Guides]] page. </div></blockquote>
+
+'''Dynamis - Divergence''':
+:Or simply known as '''[[Divergence]]''', is the old and long gone level 75 era [[Dynamis]] (revamped at level 99 into what it is today) reborn for the highest content levels. This is where you will go to [[Reforged Relic Armor +2|reforge your 119 relic armor to +2]] and [[Reforged Relic Armor +3|+3]]. Thankfully, there is no procing to worry about.
+:The event has a two hour time limit, similar to the old Dynamis system. Upon entering the area, you are given a one hour time limit. There are two methods to extend your time, +30 minutes in wave one and +30 minutes in wave two. Both time extensions are obtained in the same way for both waves; Every statue you defeat grants a one minute extension to your time, for a maximum of 30 additional minutes. If you did not defeat 30 statues in wave one or wave two, both wave bosses grant the additional time you did not receive (up to 30 minutes) upon defeat. <br />
+:The event somewhat scales be design where you can enter with an initial one hour time limit and simply pull statues (which spawns enemies) and beat them up for [[File:Rusted I. Card icon.png|24px|link=]] [[Rusted I. Card]]s and "shard" item drops. Shards are used for +2 items with the slot based on the zone. Now that shards may be simply purchased off the auction house (misc 3.) it largely defeats the purpose of the cards which are exchanged at a 300:1 ratio.
+
+:At any point you may fight the zone mid-boss statue previously mentioned which is much harder than ordinary monsters, but honestly not that crazy for any decent group to take down. The statue just chills at some point in the zone waiting for you, and upon defeat all other remaining statues and monsters will despawn and then respawn.
+:The monsters from these new statues are noticeably more difficult than before and will also now drop [[File:Black. I. Card icon.png|24px|link=]] [[Black. I. Card]]s instead of Rusted I. Cards. Furthermore a new zone boss will spawn near the mog house of the zone. This zone boss is of a significant difficulty to even the most well geared players. If you need a comparison, Omen bosses are a walk in the park compared to Divergence bosses. Defeating these Wave 2 bosses is necessary in order to progress to Wave 3.
+
+:Wave 3's main purpose is to unlock access to the [[Ultimate Weapon Augments]] system. In short, "Item Level 119 III" variants of the [[Ultimate Weapons]] can now be augmented with some additional stats to push their level further. See that page for details on this system.
+:The other purpose of Wave 3 is for [[File:Old I. Card icon.png|24px|link=]] [[Old I. Card]]s. These are traded for [[Demon's Medal]]s, which in-turn are traded for materials to synthesize Job Master (Su 5) weapons. These weapons require the [[Escutcheons]] to craft. Most of them are rather lackluster for the price, but some prove to be rather useful. See [[:Category:Superior_Equipment#Weapons_5|Su5 Equipment]] page for details.
+
+:Some things to keep in mind:
+:*You must unlock access to reforging each slot of gear for each job:
+::*[[Reforged Relic Armor +2]] may be unlocked simply by entering the zone on the job you wish to reforge with.
+::*[[Reforged Relic Armor +3]] may be unlocked by defeating the mid-boss statue on the job you wish to reforge with.
+::*Each of the four Divergence zones unlocks a specific slot of armor: feet, hands, head, and legs. Bodies unlock after you unlock all four other slots on a job.
+::*There is nothing to keep track of this other than the fact [[Aurix]] won't reforge for you until you unlock the armor slot on that job.
+:*[[Aurix]] will allow you to exchange your rusted and black cards (100:1) for [[File:Beastmen's Medal icon.png|24px|link=]] [[Beastmen's Medal]] and [[File:Kindred's Medal icon.png|24px|link=]] [[Kindred's Medal]]s respectively and then for the shards and voids (3:1) you need to upgrade items.
+::*Shard and Void items have a terrible drop rate, and only drop from the monster of the same job/sub job.
+:*You may receive medals in a personal pool. Each player in the alliance obtaining the mid-boss win for the first time will open up a drop slot which may potentially drop multiple medals directly to players. This feature is only a players initial win, not a win for a subsequent job they are unlocking armor for.
+::*Wave one boss granting beastman and the wave two boss kindred.
+
+:For more information read through the [[Divergence]] page. Each zone divergence zone page is also done nicely with maps, details, etc.
+
+===Step 4===
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; flex-wrap: wrap; align-content: space-between; flex: 1 1 100%;">
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 3 1 590px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#FEFEFF; border:2px solid #7F83D2; line-height:10x; padding:2px;" colspan="2"
+| style="vertical-align: top; width: 50%;"| '''<u>Primary Goals</u>''':
+*'''Create [[Ultimate Weapons]]''':
+'''<u>Secondary Goals</u>''':
+*'''Level and gear another [[Job]]'''
+*'''[[Master Trials]]'''
+*'''[[Oseem|Augment Your Reisenjima Equipment]]'''
+*'''[[Unity]]'''
+:*Level 145
+|width=50% valign=top|
+'''<u>Optional</u>''':
+*'''Collect [[Vorseals]]'''
+:* And other random stuff.
+*'''[[Chocobo Raising|Raise a Chocobo]]'''
+:*Why not?! You can even turn it into a [[Mount]]
+*'''Try [[Monstrosity]]'''
+:*It will be a fun binge obsession.
+::*Then you burn out and never do it again!
+*'''Solo Hard Content'''
+:*Push yourself to the limit.
+*'''Use Gearswap .luas'''
+:*Windower 4 addon.
+|}
+</div>
+<div style="min-height: 0; max-height: 100%; min-width: 0; max-width: 1800px; flex: 1 1 350px; padding-left: 1px;">
+{|style="width: 100%; max-width: 100%; height: 100%; background:#F2FEF6; border:2px solid #3CA463; line-height:10x; padding:2px;"
+| style="vertical-align: top;"| '''Story Time''':
+'''Optional''':
+*'''Troll in /yells.'''
+:*Wait for SE to add more story/content or complete things you haven't done.
+*'''Help others.'''
+:*You know, between yelling for REAM jobs only for [[Bubbly Bernie]] and stuff.
+|}
+</div></div>
+
+<div style="padding-top: 5px;">[[File:abyssea albumen.jpg|right|frameless|350px|link=]]</div>
+'''REAM Weapons''':
+:'''[[Ultimate Weapons]]''' should be the last thing you make for your character. Yet it is the thing many people get distracted with due to their perceived status and inflated importance. The large majority of your equipment slots obviously aren't your weapon. It is this majority that you should focus on as that is where your damage is coming from. Yet for some reason sometimes you will see players running around fighting in poor choices for equipment, but sporting one of these weapons. Don't be like one of those people.
+
+:Just because you see shouts or linkshells asking for these weapons doesn't mean you need to obsess about it. Everything in due time, and move at your own pace. You aren't ever at the mercy of what people want. You are only at the mercy of the extent of your own knowledge and your resolve to get out there and do what it takes to get what you want.
+
+:That being said Relics are the cheapest and easiest to make. Mythics and Empyreans are much more expensive and Mythic Weapons are more time involved than Empyrean weapons. Aeonics are something that may be difficult for you or really easy for you depending on the typical factors of the game. Each weapon category varies in value for each job. Some are situational, some are the best, some are niche, and some just aren't worth making. Don't be fooled, rarely some are so mediocre (I am looking at you, [[Ryunohige]]...) for the job that they are barely any better than the best ordinary weapons.
+:You will have to do research or crunch real numbers to find out which weapons are the best for your jobs.
+
+'''Master Trials''':
+:'''[[Master Trials]]''' have the making of everything serious players want and need in this game. An event that requires you master the jobs (obtain and spend all [[Job Points]]) you wish to take. Provides a real challenge over what other content does for up to an hour straight. With an entry item that costs time to get (250 merit points given to an NPC per attempt) and when it is all said and done you gain nothing except a unique lockstlye piece that does absolutely nothing besides look cool.
+:Honestly, it is really fun, and I hope SE continues to add them into the game.
+
+'''Augmenting Reisenjima Gear''':
+:'''[[Oseem]]''', I hate you. [https://www.youtube.com/watch?v=1N5p8IXzNdc I hate you]. I don't even know you, and I hate your guts. I hope all the bad things in life happen to you and nobody else but you.
+
+'''Gearswap''':
+:I heard you like packets dawg so we injected yo precast along with yo midcast packet so you can use quick cast with yo fast cast while yo midcast still gets on, yah dig?
+
+:Yes, Gearswap (GS) is one of those wonderful things where the first thing everyone says is "YOU NEED IT BECAUSE IT LETS YOU USE QUICKCAST GEAR!". Sure, that is true, but GS lets you do so much more if you have a good Gearswap .lua file.
+:For example, you may automate things, such as canceling a weaponskill if you are at a certain range in order to not lose TP as often. It also allows you to create key combinations to use items or abilities, and automatically swaps equipment based on your rules. For instance, anytime I become terrorized, petrified, asleep, or stunned my equipment automatically becomes a full -Damage Taken set, and when the ailment wears off I return to the set I was in.
+:These equate to things you eventually never want to live without, and boost your performance by increasing your efficiency as a player. There is simply no way to do what Gearswap does with the ingame equipsets.
+
+:The catch is that first this requires using '''[http://www.windower.net/ Windower]''', a third party tool. The second is that there is a learning curve, and you will have to figure things out. Luckily there are premade files people share, and all you really need to do is just put in your gear and go for the most part.
+
+{{color|red|Note}}: You should also probably check out the '''[[Windower Guides]]''' page for various resources that will help you.
+
+'''GS Instructions''':
+*Download a text editor such as [https://notepad-plus-plus.org/download/v7.5.1.html Notepad ++] in order to edit .lua files.
+*Download [http://www.windower.net/ Windower 4]
+:*Configure your resolution and basic options via the pencil icon.
+*Click "Addons" and scroll down to Gearswap and turn it on. This will download it and autoload it.
+:*Look around in here for other addons you may want to spice up your life.
+*Locate your GS folder. Likely under C:\Program Files (x86)\Windower4\addons\GearSwap
+:*Right click the "data" folder and either pin it to the quick access, to start (in Windows 10), or add it to another library. This will allow you to quickly access it in the future.
+*Your .luas go inside the data folder of your GS folder.
+*Your GS .lua will load based on your job/character.
+:*Naming something WAR.lua will autoload it to any character on that computer who changes jobs to a WAR.
+:*Naming something Buttchug_DNC.lua will only load it for any character on that computer named Buttchug when they are a DNC.
+*Find a .lua on the web, ask some friends, or check/ask in the [https://www.bluegartr.com/threads/119444-Gearswap-Shop-Thread BG Gearswap Shop Thread]
+:*I share my BLU, RUN, and DRG .luas in my [https://pastebin.com/u/Spicyryan Pastebin] if you need want one for either of those three jobs.
+*Edit this .lua in your preferred text editor and save it.
+:*You must reload GS if you are currently in game and want the changes enacted.
+
+'''Useful Gearswap Commands''':
+*//gs reload - reloads GS
+*//lua unload (or load) GearSwap
+*//gs showswaps - toggles on and off a text based check in your chat log to show if your GS is actually working. Cast a spell or perform an action and it should show you that your gear is changing, and lists out what changes. :*If something is on during precast, and not listed in midcast/aftercast then the same piece is being used.
+*//gs validate - compares your inventory against items called in the gearswap file and reports what isn't in your inventory.
+:*Useful for finding spelling errors or missing gear.
+*//gs export - exports your current set into a lua file within the data folder in an export folder.
+:*Useful for adding augmented gear to gearswap, or just for adding sets via copy paste.
+
+'''Common Gearswap Problems''':
+*IT ISN'T WORKING
+:*Did you File → Save As a .lua? Did you reload GS? Did you spell things wrong?
+*It loaded fine, but after putting in my gear I am getting an error.
+:*You likely forgot to close quotation marks around the "armor" or forgot each "armor", must have a comma after it before the next piece.
+*Some other error.
+:*Load the GS before you even put in your gear to make sure it works. If not, and if you can't fix it then ask for help or find a new one.
+
+'''Ashitacast'''
+:Windower alternative that is separate from the Gearswap and the Windower team. It functions via .xml instead of .lua, and some people use it over Gearswap for whatever reasons they may have (generally they are more knowledgeable). I do not use it, and there is less community support for it, but if you want to use it there here is the tip off.
+
+==In Conclusion==
+Enjoy Final Fantasy XI.
+
+If you appreciated this guide then please join the wiki. Help contribute information to it as you go through your journey so that others may benefit too.
+*Even if you don't know anything about editing, the biggest help is from people who simply use the wiki while doing missions, quests, etc and add a line of information they think should be there.
+:*You can always reach out to us for help with this via the discord below or [[BGWiki:Getting_started#BGWiki_Active_Administrators|talk pages]] of the staff.
+
+*[https://www.bluegartr.com/discord The BG Discord!]
+*[https://www.bluegartr.com/forums/53-FFXI-Everything BG's FFXI Forums] - Wiki accounts are linked to the forum.
+*[https://www.bluegartr.com/threads/130968-New-or-Returning-Players-Discussion-3-FFXI-Single-Player-Edition BG Forums Returning Player Thread.]
+:*Joining the Forums is also nice for keeping the community alive. Besides, I am banned from all the other ones :P
+*[[Getting Started]] page for the wiki.
+:*[[BGWiki:Suggestions|Leave some feedback on our Suggestions page on the wiki!]]
+:*[https://www.bluegartr.com/threads/130342-BG-Wiki-Suggestions-Thread BG Wiki Suggestions Thread (FFXIAH).]
+
+
+[[Category:Gameplay Guides]]
+
+
